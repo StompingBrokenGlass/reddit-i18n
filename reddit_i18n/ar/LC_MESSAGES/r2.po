@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: r2 0.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-09 15:06-0800\n"
-"PO-Revision-Date: 2011-11-18 17:06+0400\n"
+"PO-Revision-Date: 2011-11-18 21:20+0400\n"
 "Last-Translator: StompingBrokenGlass <StompingBrokenGlass@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -484,12 +484,12 @@ msgstr ""
 #: r2/controllers/front.py:331
 #, python-format
 msgid "show all %d"
-msgstr ""
+msgstr "إظهار الكل %d"
 
 #: r2/controllers/front.py:333
 #, python-format
 msgid "show %d"
-msgstr ""
+msgstr "إظهار %d"
 
 #: r2/controllers/front.py:349
 msgid "create a reddit"
@@ -584,7 +584,7 @@ msgstr ""
 
 #: r2/controllers/ipn.py:473
 msgid "thanks for giving reddit gold!"
-msgstr ""
+msgstr "شكراً لإعطائك ذهب ردّئِت!"
 
 #: r2/controllers/ipn.py:474
 #, python-format
@@ -610,37 +610,37 @@ msgstr "أنك حقاً ضجران، ها؟"
 #: r2/controllers/listingcontroller.py:502
 #, python-format
 msgid "overview for %(user)s"
-msgstr ""
+msgstr "مُلخص عن %(user)s"
 
 #: r2/controllers/listingcontroller.py:503
 #, python-format
 msgid "comments by %(user)s"
-msgstr ""
+msgstr "تعليقات %(user)s"
 
 #: r2/controllers/listingcontroller.py:504
 #, python-format
 msgid "submitted by %(user)s"
-msgstr ""
+msgstr "أرسله %(user)s"
 
 #: r2/controllers/listingcontroller.py:505
 #, python-format
 msgid "liked by %(user)s"
-msgstr ""
+msgstr "أعجب %(user)s"
 
 #: r2/controllers/listingcontroller.py:506
 #, python-format
 msgid "disliked by %(user)s"
-msgstr ""
+msgstr "لم يعجب %(user)s"
 
 #: r2/controllers/listingcontroller.py:507
 #, python-format
 msgid "hidden by %(user)s"
-msgstr ""
+msgstr "أخفاه %(user)s"
 
 #: r2/controllers/listingcontroller.py:508
 #, python-format
 msgid "profile for %(user)s"
-msgstr ""
+msgstr "لائحة %(user)s"
 
 #: r2/controllers/listingcontroller.py:621
 #: r2/controllers/listingcontroller.py:630
@@ -2280,7 +2280,7 @@ msgstr ""
 
 #: r2/templates/buttondemopanel.html:34
 msgid "commonly used buttons"
-msgstr ""
+msgstr "أزرار شائع أستعمالها"
 
 #: r2/templates/buttondemopanel.html:35
 msgid "use one of these buttons to quickly add reddit links to your site, or       see below for more options."
@@ -2288,11 +2288,11 @@ msgstr ""
 
 #: r2/templates/buttondemopanel.html:46
 msgid "buttons with points"
-msgstr ""
+msgstr "أزرار بنقاط"
 
 #: r2/templates/buttondemopanel.html:52
 msgid "customizing the look of your buttons"
-msgstr ""
+msgstr "تخصيص مظهر أزرارك"
 
 #: r2/templates/buttondemopanel.html:53
 msgid "the buttons with points have three additional options."
@@ -2308,7 +2308,7 @@ msgstr ""
 
 #: r2/templates/buttondemopanel.html:60
 msgid "opens links in a new window"
-msgstr ""
+msgstr "فتح الروابط في نافذة جديدة"
 
 #: r2/templates/buttondemopanel.html:62
 #: r2/templates/buttondemopanel.html:114
@@ -2649,7 +2649,7 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:207
 msgid "leaves this page"
-msgstr ""
+msgstr "مغادرة هذه الصفحة"
 
 #: r2/templates/createsubreddit.html:216
 msgid "upload header image"
@@ -2661,7 +2661,7 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:244
 msgid "sponsorship"
-msgstr ""
+msgstr "رعاية"
 
 #: r2/templates/createsubreddit.html:256
 msgid "name this campaign (for traffic)"
@@ -2690,7 +2690,7 @@ msgstr ""
 #: r2/templates/feedback.html:46
 #: r2/templates/sharelink.html:33
 msgid "your name"
-msgstr ""
+msgstr "أسمك"
 
 #: r2/templates/feedback.html:53
 msgid "(only used to reply)"
@@ -2808,7 +2808,7 @@ msgstr ""
 
 #: r2/templates/flairtemplatelist.html:34
 msgid "user can edit?"
-msgstr ""
+msgstr "المستخدم يمكنه التحرير؟"
 
 #: r2/templates/flairtemplatelist.html:49
 msgid "clear all flair templates"
@@ -2836,11 +2836,11 @@ msgstr ""
 
 #: r2/templates/frametoolbar.html:92
 msgid "login / register"
-msgstr ""
+msgstr "سجل / أدخل"
 
 #: r2/templates/frametoolbar.html:100
 msgid "new mail"
-msgstr ""
+msgstr "بريد جديد"
 
 #: r2/templates/frametoolbar.html:113
 #: r2/templates/frametoolbar.html:114
@@ -2862,11 +2862,11 @@ msgstr ""
 
 #: r2/templates/frametoolbar.html:186
 msgid "like"
-msgstr ""
+msgstr "أعجب"
 
 #: r2/templates/frametoolbar.html:187
 msgid "dislike"
-msgstr ""
+msgstr "لم يعجب"
 
 #: r2/templates/frametoolbar.html:195
 #: r2/templates/printablebuttons.html:171
@@ -2881,18 +2881,18 @@ msgstr "تم إلغاء الحفظ"
 #: r2/templates/frametoolbar.html:205
 #: r2/templates/printablebuttons.html:179
 msgid "unhide"
-msgstr ""
+msgstr "إظهار"
 
 #: r2/templates/frametoolbar.html:206
 #: r2/templates/printablebuttons.html:180
 msgid "unhidden"
-msgstr ""
+msgstr "تم إظهاره"
 
 #: r2/templates/frametoolbar.html:209
 #: r2/templates/frametoolbar.html:210
 #: r2/templates/printablebuttons.html:182
 msgid "hide"
-msgstr ""
+msgstr "أخفاء"
 
 #: r2/templates/frametoolbar.html:217
 msgid "toggle the comments panel"
@@ -2925,16 +2925,16 @@ msgstr ""
 #: r2/templates/gold.html:105
 #: r2/templates/subreddit.html:64
 msgid "subscribe"
-msgstr ""
+msgstr "أشتراك"
 
 #: r2/templates/gold.html:111
 msgid "How many months?"
-msgstr ""
+msgstr "كم شهر؟"
 
 #: r2/templates/gold.html:113
 #: r2/templates/gold.html:174
 msgid "buy"
-msgstr ""
+msgstr "شراء"
 
 #: r2/templates/gold.html:119
 msgid "How much gold do you wish to bestow?"
@@ -2955,20 +2955,20 @@ msgstr ""
 
 #: r2/templates/gold.html:150
 msgid "yes, include my username"
-msgstr ""
+msgstr "نعم، أرفق أسم مستخدمي"
 
 #: r2/templates/gold.html:154
 msgid "no, make it anonymous"
-msgstr ""
+msgstr "لا، أجعله مجهول"
 
 #: r2/templates/gold.html:160
 msgid "Gift message (optional):"
-msgstr ""
+msgstr "رسالة الهدية (أختياري):"
 
 #: r2/templates/gold.html:165
 #: r2/templates/goldpayment.html:50
 msgid "give"
-msgstr ""
+msgstr "أعطاء"
 
 #: r2/templates/gold.html:172
 msgid "How many creddits would you like to buy? (each will allow you to give one month of reddit gold)"
@@ -2980,7 +2980,7 @@ msgstr ""
 
 #: r2/templates/goldpayment.html:54
 msgid "Please select a payment method."
-msgstr ""
+msgstr "الرجاء أختيار طريقة الدفع."
 
 #: r2/templates/goldpayment.html:77
 msgid "Google Checkout"
@@ -2996,11 +2996,11 @@ msgstr ""
 
 #: r2/templates/link.html:71
 msgid "Adult content: Not Safe For Work"
-msgstr ""
+msgstr "محتوى بالغين: غير آمن للعمل"
 
 #: r2/templates/link.html:72
 msgid "NSFW"
-msgstr ""
+msgstr "غير آمن للعمل"
 
 #: r2/templates/link.html:90
 msgid "(no need to click for this info; just hover over the checkmark next time)"
@@ -3033,7 +3033,7 @@ msgstr ""
 
 #: r2/templates/linkinfobar.html:34
 msgid "this post was submitted on"
-msgstr ""
+msgstr "هذا المنشور تم أرساله عند"
 
 #: r2/templates/linkinfobar.html:43
 msgid "like it"
@@ -3062,28 +3062,28 @@ msgstr ""
 
 #: r2/templates/linkontrial.html:51
 msgid "how would you classify this link?"
-msgstr ""
+msgstr "كيف تصنف هذا الرابط؟"
 
 #: r2/templates/linkontrial.html:66
 msgid "off-topic / spam"
-msgstr ""
+msgstr "بعيد عن الموضوع/رسالة مزعجة"
 
 #: r2/templates/linkontrial.html:67
 msgid "kosher"
-msgstr ""
+msgstr "حلال"
 
 #: r2/templates/linkontrial.html:70
 msgid "thanks for voting!"
-msgstr ""
+msgstr "شكراً لتصويتك!"
 
 #: r2/templates/linkontrial.html:73
 #: r2/templates/spotlightlisting.html:71
 msgid "Click here for more info."
-msgstr ""
+msgstr "أضغط هنا لمزيد من المعلومات."
 
 #: r2/templates/linkontrial.html:77
 msgid "those arrows are only for show; they don't actually do anything."
-msgstr ""
+msgstr "هذه الأسهم فقط للعرض، إنها لا تفعل شي."
 
 #: r2/templates/listing.html:38
 msgid "view more:"
@@ -3091,7 +3091,7 @@ msgstr "عرض المزيد:"
 
 #: r2/templates/listing.html:51
 msgid "there doesn't seem to be anything here"
-msgstr ""
+msgstr "لا يظهر هناك شيء هنا"
 
 #: r2/templates/login.html:34
 #: r2/templates/register.html:34
@@ -3212,15 +3212,15 @@ msgstr ""
 
 #: r2/templates/messagecompose.html:51
 msgid "to"
-msgstr ""
+msgstr "إلى"
 
 #: r2/templates/messagecompose.html:63
 msgid "subject"
-msgstr ""
+msgstr "العنوان"
 
 #: r2/templates/morechildren.html:38
 msgid "load more comments"
-msgstr ""
+msgstr "حمل المزيد من التعليقات"
 
 #: r2/templates/morechildren.html:39
 msgid "reply"
@@ -3234,16 +3234,16 @@ msgstr[5] "رد"
 
 #: r2/templates/moremessages.html:38
 msgid "[+] load the full conversation."
-msgstr ""
+msgstr "[+] حمل المحادثة كاملة."
 
 #: r2/templates/morerecursion.html:29
 msgid "continue this thread"
-msgstr ""
+msgstr "متابعة هذا الموضوع"
 
 #: r2/templates/newlink.html:32
 #, python-format
 msgid "submit to %(sr)s"
-msgstr ""
+msgstr "إرسل إلى %(sr)s"
 
 #: r2/templates/newlink.html:32
 msgid "reddit"
@@ -3256,7 +3256,7 @@ msgstr ""
 
 #: r2/templates/newlink.html:74
 msgid "suggest title"
-msgstr ""
+msgstr "أقترح عنوان"
 
 #: r2/templates/newlink.html:83
 #: r2/templates/paymentform.html:115
@@ -3265,15 +3265,15 @@ msgstr ""
 #: r2/templates/sharelink.html:54
 #: r2/templates/sharelink.html:73
 msgid "(optional)"
-msgstr ""
+msgstr "(أختياري)"
 
 #: r2/templates/newlink.html:83
 msgid "text"
-msgstr ""
+msgstr "كتابة"
 
 #: r2/templates/newlink.html:94
 msgid "choose a subreddit"
-msgstr ""
+msgstr "أختر ردّئِت فرعية"
 
 #: r2/templates/oauth2authorization.html:28
 #, python-format
@@ -3292,11 +3292,11 @@ msgstr ""
 
 #: r2/templates/oauth2authorization.html:43
 msgid "Allow"
-msgstr ""
+msgstr "أسمح"
 
 #: r2/templates/oauth2authorization.html:44
 msgid "Decline"
-msgstr ""
+msgstr "أرفض"
 
 #: r2/templates/optout.html:26
 #, python-format
@@ -3336,11 +3336,11 @@ msgstr ""
 
 #: r2/templates/over18.html:25
 msgid "you must be at least eighteen to view this reddit"
-msgstr ""
+msgstr "يجب أن يكون عمرك على الأقل ثمانية عشر لمشاهدة هذا الردّئِت"
 
 #: r2/templates/over18.html:33
 msgid "are you over eighteen and willing to see adult content?"
-msgstr ""
+msgstr "هل عمرك ثمانية عشر و أنت راغب في مشاهدة محتوى للبالغين؟"
 
 #: r2/templates/password.html:29
 msgid "what's my password?"
@@ -3352,11 +3352,11 @@ msgstr "أدخل اسم المستخدم الخاص بك أدناه لكي تح�
 
 #: r2/templates/password.html:33
 msgid "password reset link expired. please try again"
-msgstr ""
+msgstr "رابط إعادة كلمة السر أنتهى، الرجاء المحاولة مرة أخرى"
 
 #: r2/templates/password.html:45
 msgid "email me"
-msgstr ""
+msgstr "أرسل بريد ألكتروني"
 
 #: r2/templates/paymentform.html:34
 msgid "set up payment for this link"
@@ -3373,19 +3373,20 @@ msgstr ""
 
 #: r2/templates/paymentform.html:53
 msgid "Please pick your credit card:"
-msgstr ""
+msgstr "الرجاء أختيار بطاقة أئتمانك:"
 
 #: r2/templates/paymentform.html:55
 msgid "select..."
-msgstr ""
+msgstr "أختر..."
 
 #: r2/templates/paymentform.html:61
+#, fuzzy
 msgid "create a new one..."
-msgstr ""
+msgstr "أنشئ جديد..."
 
 #: r2/templates/paymentform.html:66
 msgid "please create a new payment profile"
-msgstr ""
+msgstr "الرجاء أنشاء لائِحة دفع جديدة"
 
 #: r2/templates/paymentform.html:70
 msgid "NOTE: your card will not be charged until the link has been queued for promotion."
@@ -3393,63 +3394,63 @@ msgstr ""
 
 #: r2/templates/paymentform.html:113
 msgid "first name"
-msgstr ""
+msgstr "الأسم الأول"
 
 #: r2/templates/paymentform.html:114
 msgid "last name"
-msgstr ""
+msgstr "الأسم الأخير (أسم العائلة)"
 
 #: r2/templates/paymentform.html:115
 msgid "company"
-msgstr ""
+msgstr "الشركة"
 
 #: r2/templates/paymentform.html:116
 msgid "address"
-msgstr ""
+msgstr "العنوان"
 
 #: r2/templates/paymentform.html:117
 msgid "city"
-msgstr ""
+msgstr "المدينة"
 
 #: r2/templates/paymentform.html:118
 msgid "state"
-msgstr ""
+msgstr "الولاية"
 
 #: r2/templates/paymentform.html:119
 msgid "zip"
-msgstr ""
+msgstr "الرقم البريدي"
 
 #: r2/templates/paymentform.html:120
 msgid "country"
-msgstr ""
+msgstr "البلد"
 
 #: r2/templates/paymentform.html:121
 msgid "phone"
-msgstr ""
+msgstr "رقم الهاتف"
 
 #: r2/templates/paymentform.html:122
 msgid "card number"
-msgstr ""
+msgstr "رقم البطاقة"
 
 #: r2/templates/paymentform.html:122
 msgid "(14-17 digits)"
-msgstr ""
+msgstr "(14-14 رقماً)"
 
 #: r2/templates/paymentform.html:123
 msgid "expiration date"
-msgstr ""
+msgstr "تاريخ الإنتهاء"
 
 #: r2/templates/paymentform.html:124
 msgid "CCV"
-msgstr ""
+msgstr "سي سي في"
 
 #: r2/templates/paymentform.html:124
 msgid "(3 or 4 digits)"
-msgstr ""
+msgstr "(٣ أو ٤ أرقام)"
 
 #: r2/templates/paymentform.html:181
 msgid "authorize payment"
-msgstr ""
+msgstr "تصريح الدفع."
 
 #: r2/templates/paymentform.html:184
 #: r2/templates/printablebuttons.html:159
@@ -3461,15 +3462,15 @@ msgstr "تحرير"
 
 #: r2/templates/permalinkmessage.html:24
 msgid "you are viewing a single comment's thread."
-msgstr ""
+msgstr "إنك تشاهد موضوع بتعليق واحد."
 
 #: r2/templates/permalinkmessage.html:26
 msgid "view the rest of the comments"
-msgstr ""
+msgstr "أظهار بقية التعليقات"
 
 #: r2/templates/prefdelete.html:28
 msgid "delete your reddit account"
-msgstr ""
+msgstr "أحذف حساب ردّئِت"
 
 #: r2/templates/prefdelete.html:31
 msgid "deleting..."
@@ -3477,7 +3478,7 @@ msgstr "يتم الحذف..."
 
 #: r2/templates/prefdelete.html:34
 msgid "sorry to see you go!"
-msgstr ""
+msgstr "نأسف لروئيتك تذهب!"
 
 #: r2/templates/prefdelete.html:36
 msgid ""
@@ -3487,11 +3488,11 @@ msgstr ""
 
 #: r2/templates/prefdelete.html:45
 msgid "why are you deleting this account?"
-msgstr ""
+msgstr "لماذا تحذف هذا الحساب؟"
 
 #: r2/templates/prefdelete.html:52
 msgid "for security purposes"
-msgstr ""
+msgstr "لدواعي أمنية"
 
 #: r2/templates/prefdelete.html:52
 msgid "account credentials"
@@ -3499,15 +3500,15 @@ msgstr ""
 
 #: r2/templates/prefdelete.html:63
 msgid "confirmation"
-msgstr ""
+msgstr "تأكيد"
 
 #: r2/templates/prefdelete.html:66
 msgid "I understand that deleted accounts are not recoverable."
-msgstr ""
+msgstr "أني أفهم أن الحسابات المحذوفة غير قابلة للإستعادة"
 
 #: r2/templates/prefdelete.html:73
 msgid "delete account"
-msgstr ""
+msgstr "أحذف الحساب"
 
 #: r2/templates/preffeeds.html:29
 msgid "Private RSS feeds"
@@ -3638,11 +3639,11 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:143
 msgid "show me new links on the front page"
-msgstr ""
+msgstr "إظهر لي الروابط الجديد على الصفحة الرئيسية"
 
 #: r2/templates/prefoptions.html:146
 msgid "show me links I've recently viewed"
-msgstr ""
+msgstr "إظهر لي الروابط التى أطلعت عليها مؤخراَ"
 
 #: r2/templates/prefoptions.html:147
 msgid "compress the link display"
@@ -3650,7 +3651,7 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:148
 msgid "don't show links after i've liked them"
-msgstr ""
+msgstr "لا تظهر لي روابط أعجبتني"
 
 #: r2/templates/prefoptions.html:150
 #: r2/templates/prefoptions.html:154
@@ -3659,7 +3660,7 @@ msgstr "(غير الخاص بي)"
 
 #: r2/templates/prefoptions.html:152
 msgid "don't show links after i've disliked them"
-msgstr ""
+msgstr "لا تظهر لي روابط لم تعجبني"
 
 #: r2/templates/prefoptions.html:158
 msgid "display"
@@ -3679,22 +3680,22 @@ msgstr "لا ترني التعليقات ذات النتيجة أقل من "
 
 #: r2/templates/prefoptions.html:162
 msgid "comments by default"
-msgstr ""
+msgstr "تعليقات أفتراضياً"
 
 #: r2/templates/prefoptions.html:165
 #, python-format
 msgid "display %(num)s links at once"
-msgstr ""
+msgstr "إظهر لي %(num)s رابط دفعة واحدة"
 
 #: r2/templates/prefoptions.html:173
 #, python-format
 msgid "don't show me sites with a score less than %(num)s"
-msgstr ""
+msgstr "لا تظهر لي مواقع بنتيجة أقل من %(num)s"
 
 #: r2/templates/prefoptions.html:174
 #: r2/templates/prefoptions.html:187
 msgid "(blank for none)"
-msgstr ""
+msgstr "(فارغ للا شيء)"
 
 #: r2/templates/prefoptions.html:179
 msgid "comment options"
@@ -3703,16 +3704,16 @@ msgstr "خيارات التعليق"
 #: r2/templates/prefoptions.html:186
 #, python-format
 msgid "don't show me comments with a score less than %(num)s"
-msgstr ""
+msgstr "لا تظهر لي تعليقات بنتيجة أقل من %(num)s"
 
 #: r2/templates/prefoptions.html:195
 #, python-format
 msgid "display %(num)s comments by default"
-msgstr ""
+msgstr "أظهر لي %(num)s تعليقاً أفتراضياً"
 
 #: r2/templates/prefoptions.html:201
 msgid "the smaller the number, the faster your comments pages will load"
-msgstr ""
+msgstr "كلما صغر الرقم، كلما زادت سرعة تحميل صفحات التعليقات"
 
 #: r2/templates/prefoptions.html:206
 msgid "messaging options"
@@ -3724,23 +3725,23 @@ msgstr "أظهار محادثات الرسائل في صندوق الوارد"
 
 #: r2/templates/prefoptions.html:211
 msgid "(only applies when you go to the 'messages' panel)"
-msgstr ""
+msgstr "(ينطبق فقط عندما تذهب إلى لوحة 'الرسائل')"
 
 #: r2/templates/prefoptions.html:215
 msgid "collapse messages after I've read them"
-msgstr ""
+msgstr "أطوي الرسائل بعد قرائتها"
 
 #: r2/templates/prefoptions.html:218
 msgid "(otherwise, you'll have to collapse them yourself)"
-msgstr ""
+msgstr "(وإلإ ، عليك أن تطويهم بنفسك)"
 
 #: r2/templates/prefoptions.html:222
 msgid "mark messages as read when I open my inbox"
-msgstr ""
+msgstr "ميز الرسائل بإنها مقرؤة عندما أقرأ صندوق الوارد"
 
 #: r2/templates/prefoptions.html:225
 msgid "(otherwise, they will be marked as read when you click them)"
-msgstr ""
+msgstr "(وإلا ، سوف تُميز عندما تضغط عليها)"
 
 #: r2/templates/prefoptions.html:230
 #: r2/templates/widgetdemopanel.html:193
@@ -3794,11 +3795,11 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:267
 msgid "allow my data to be used for research purposes"
-msgstr ""
+msgstr "أسمح بأستخدام بياناتي لأغرض البحث"
 
 #: r2/templates/prefoptions.html:277
 msgid "don't allow search engines to index my user profile"
-msgstr ""
+msgstr "لا تسمح لمحركات البحث لفهرسة لائِحتي"
 
 #: r2/templates/prefoptions.html:285
 msgid "load core JS libraries from reddit servers"
@@ -3810,35 +3811,35 @@ msgstr "خيارات الذهب"
 
 #: r2/templates/prefoptions.html:301
 msgid "show the right sidebar ad box"
-msgstr ""
+msgstr "أظهر أعلانات الشريط الجانبي على جهة اليمين"
 
 #: r2/templates/prefoptions.html:302
 msgid "the attractive 300x250 one that usually only has reddit t-shirts in it"
-msgstr ""
+msgstr "الـ 300 × 250 الجذابة ، هي التي تحتوي بالعادة على فانيلات"
 
 #: r2/templates/prefoptions.html:304
 msgid "show sponsored links"
-msgstr ""
+msgstr "أظهر روابط تحت رعاية"
 
 #: r2/templates/prefoptions.html:305
 msgid "the blue advertisements that sometimes appear on the top of the page"
-msgstr ""
+msgstr "الإعلانات الزرقاء التي تظهر أحياناً في أعلى الصفحة"
 
 #: r2/templates/prefoptions.html:307
 msgid "show sponsorships"
-msgstr ""
+msgstr "أظهر الرعايات"
 
 #: r2/templates/prefoptions.html:308
 msgid "the 300x100 'sponsored by...' images that sometimes appear in sidebars"
-msgstr ""
+msgstr "الصور قياس 300 × 100 'برعاية...' التي تظهر أحياناً في الأشرطة الجانبية"
 
 #: r2/templates/prefoptions.html:311
 msgid "highlight new comments"
-msgstr ""
+msgstr "وضح التعليقات الجديدة"
 
 #: r2/templates/prefoptions.html:313
 msgid "we'll remember your visits for 48 hours and show you which comments you haven't seen yet"
-msgstr ""
+msgstr "سوف نتذكر زيارتك لـ ٤٨ ساعة و نظهر لك التعليقات التي لم تتطلع عليها بعد:"
 
 #: r2/templates/prefupdate.html:28
 msgid "update your email or password"
@@ -4115,11 +4116,11 @@ msgstr ""
 
 #: r2/templates/promote_graph.html:201
 msgid "top promoters this month"
-msgstr ""
+msgstr "أعلى مروجين هذا الشهر"
 
 #: r2/templates/promote_graph.html:242
 msgid "promotions this month"
-msgstr ""
+msgstr "ترويجات هذا الشهر"
 
 #: r2/templates/promotedlink.html:36
 #, python-format
@@ -4133,32 +4134,32 @@ msgstr ""
 
 #: r2/templates/promotedlink.html:58
 msgid "deleted sponsored link"
-msgstr ""
+msgstr "رابط ترويج ملغي"
 
 #: r2/templates/promotedlink.html:60
 msgid "unpaid sponsored link"
-msgstr ""
+msgstr "رابط ترويج غير مدفوع"
 
 #: r2/templates/promotedlink.html:62
 msgid "unapproved sponsored link"
-msgstr ""
+msgstr "رابط ترويج غير مصرح به بعد"
 
 #: r2/templates/promotedlink.html:64
 msgid "rejected sponsored link"
-msgstr ""
+msgstr "رابط ترويج مرفوض"
 
 #: r2/templates/promotedlink.html:66
 #: r2/templates/promotedlink.html:71
 msgid "sponsored link"
-msgstr ""
+msgstr "رابط ترويج"
 
 #: r2/templates/promotedlink.html:68
 msgid "accepted sponsored link"
-msgstr ""
+msgstr "رابط ترويج مصرح به"
 
 #: r2/templates/promotedtraffic.html:48
 msgid "Promotion Traffic"
-msgstr ""
+msgstr "حركة الترويج"
 
 #: r2/templates/promotedtraffic.html:50
 msgid "(download as .csv)"
@@ -4195,11 +4196,11 @@ msgstr "الطول"
 #: r2/templates/promotelinkform.html:414
 #: r2/templates/promotelinkform.html:495
 msgid "promotion history"
-msgstr ""
+msgstr "تاريخ الترويج"
 
 #: r2/templates/promotelinkform.html:460
 msgid "bidding history"
-msgstr ""
+msgstr "تاريخ المزاد"
 
 #: r2/templates/reddit.html:157
 #: r2/templates/reddit.html:169
@@ -4222,7 +4223,7 @@ msgstr "سياسة الخصوصية"
 #: r2/templates/redditfooter.html:53
 #, python-format
 msgid "%(year)d reddit inc. All rights reserved."
-msgstr ""
+msgstr "%(year)d ردّئٍت أنك. جميع الحقوق محفوظة."
 
 #: r2/templates/redditheader.html:32
 msgid "jump to content"
@@ -4257,7 +4258,7 @@ msgstr "تاريخ"
 #: r2/templates/reddittraffic.html:205
 #: r2/templates/reddittraffic.html:207
 msgid "uniques"
-msgstr ""
+msgstr "مُميزون"
 
 #: r2/templates/reddittraffic.html:50
 #: r2/templates/reddittraffic.html:52
@@ -4267,12 +4268,12 @@ msgstr ""
 #: r2/templates/reddittraffic.html:206
 #: r2/templates/reddittraffic.html:208
 msgid "impressions"
-msgstr ""
+msgstr "أنطباعات"
 
 #: r2/templates/reddittraffic.html:53
 #: r2/templates/reddittraffic.html:59
 msgid "subscriptions"
-msgstr ""
+msgstr "أشتراكات"
 
 #: r2/templates/reddittraffic.html:103
 msgid "Daily Mean"
@@ -4280,7 +4281,7 @@ msgstr ""
 
 #: r2/templates/reddittraffic.html:132
 msgid "There doesn't seem to be any traffic data at the moment.  Please check back later."
-msgstr ""
+msgstr "لايظهر هناك بيانات عن الحركة في الوقت الحالي. الرجاء التأكد في وقت لاحق."
 
 #: r2/templates/reddittraffic.html:201
 msgid "cnamed"
@@ -4301,15 +4302,15 @@ msgstr "الحواجز المتواجدة"
 #: r2/templates/searchbar.html:41
 #, python-format
 msgid "about %(num)d results in %(second)s"
-msgstr ""
+msgstr "حوالي %(num)d نتيجة خلال %(second)s"
 
 #: r2/templates/searchbar.html:51
 msgid "satisfied?"
-msgstr ""
+msgstr "راضي؟"
 
 #: r2/templates/searchbar.html:55
 msgid "thanks for your feedback!"
-msgstr ""
+msgstr "شكراً على إبلاغنا!"
 
 #: r2/templates/searchform.html:34
 msgid "find things posted in {name} only"
@@ -4341,7 +4342,7 @@ msgstr ""
 
 #: r2/templates/searchform.html:50
 msgid "see the search faq for details."
-msgstr ""
+msgstr "أطلع على الأشئلة الشائعة للبحث للمزيد عن المعلومات."
 
 #: r2/templates/searchform.html:53
 msgid "advanced search: by author, community..."
@@ -4383,7 +4384,7 @@ msgstr ""
 
 #: r2/templates/shirtpane.html:5
 msgid "sorry.  That title is too long to fit on a t-shirt."
-msgstr ""
+msgstr "نأسف. العنوان طويل جداً ليسع الفانيلةز"
 
 #: r2/templates/shirtpane.html:37
 msgid "Your reddit headline shirt"
@@ -4408,7 +4409,7 @@ msgstr "كمية:"
 #: r2/templates/spotlightlisting.html:59
 #, python-format
 msgid "Click %(here)s to close help."
-msgstr ""
+msgstr "أضغط %(here)s لغلق المساعدة."
 
 #: r2/templates/spotlightlisting.html:60
 #: r2/templates/spotlightlisting.html:74
@@ -4418,35 +4419,35 @@ msgstr "هنا"
 
 #: r2/templates/spotlightlisting.html:68
 msgid "Sometimes reddit needs to ask the community to help fight spam. This is your chance to take part in that."
-msgstr ""
+msgstr "أحياناً ردّئِت يحتاج إلى مساعدة المجتمع لمحاربة الرسائل المزعجة. هذه فرصتك للمشاركة في ذالك."
 
 #: r2/templates/spotlightlisting.html:74
 #: r2/templates/spotlightlisting.html:101
 msgid "This element has been disabled."
-msgstr ""
+msgstr "هذا العنصر تم تعطيله"
 
 #: r2/templates/spotlightlisting.html:76
 #: r2/templates/spotlightlisting.html:103
 #, python-format
 msgid "Click %(here)s to disable this feature."
-msgstr ""
+msgstr "أضغط %(here)s لتعطيل هذه الميزة"
 
 #: r2/templates/spotlightlisting.html:96
 msgid "This area shows new and upcoming links. Vote on links here to help them become popular, and click the forwards and backwards buttons to view more. "
-msgstr ""
+msgstr "هذه المنطقة تظهر فيها الروابط الجديدة و القادمة. صوت على الروابط هنا حتى تساعدها على شهرتها، وأضغط على أزرار إلى الأمام و إلى الخلف للإطلاع على المزيد."
 
 #: r2/templates/spotlightlisting.html:118
 msgid "The new link area will no longer appear for you. To re-enable it, visit your preferences."
-msgstr ""
+msgstr "مساخة الروابط الجديدةلن تظهر لك. لإعادة تفيعلها، الرجاء زيارة خياراتك."
 
 #: r2/templates/subreddit.html:59
 #, python-format
 msgid "a community for %(time)s"
-msgstr ""
+msgstr "مجتمع منذ %(time)s"
 
 #: r2/templates/subreddit.html:64
 msgid "unsubscribe"
-msgstr ""
+msgstr "إنسحاب"
 
 #: r2/templates/subreddit.html:85
 #: r2/templates/subreddit.html:86
@@ -4464,33 +4465,33 @@ msgstr "مغادرة"
 #: r2/templates/subredditinfobar.html:48
 #, python-format
 msgid "you are a moderator of this reddit. (%(leave)s)"
-msgstr ""
+msgstr "أنك مراقب لهذا الردّئِت. (%(leave)s)"
 
 #: r2/templates/subredditinfobar.html:49
 msgid "stop being a moderator?"
-msgstr ""
+msgstr "توقف عن كونك مراقب؟"
 
 #: r2/templates/subredditinfobar.html:50
 msgid "you are no longer a moderator"
-msgstr ""
+msgstr "أنك لست مراقب بعد الأن"
 
 #: r2/templates/subredditinfobar.html:56
 #, python-format
 msgid "you are an approved submitter on this reddit. (%(leave)s)"
-msgstr ""
+msgstr "أنك مراسل مصرح لهذا الردّئِت. (%leave)s)"
 
 #: r2/templates/subredditinfobar.html:57
 msgid "stop being an approved submitter?"
-msgstr ""
+msgstr "توقف عن كونك مراسل مصرح؟"
 
 #: r2/templates/subredditinfobar.html:58
 msgid "you are no longer an approved submitter"
-msgstr ""
+msgstr "أنك لست مراسل مصرح بعد الأن"
 
 #: r2/templates/subredditinfobar.html:71
 #, python-format
 msgid "created by&#32;%(user)s"
-msgstr ""
+msgstr "أنشئه &32;%(user)s"
 
 #: r2/templates/subredditinfobar.html:75
 msgid "a community for"
@@ -4498,11 +4499,11 @@ msgstr "مجتمع لـ "
 
 #: r2/templates/subredditinfobar.html:81
 msgid "approve this reddit"
-msgstr ""
+msgstr "صرح بهذا الردّئِت"
 
 #: r2/templates/subredditinfobar.html:89
 msgid "ban this reddit"
-msgstr ""
+msgstr "أحجب هذا الردّئِت"
 
 #: r2/templates/subredditinfobar.html:90
 #: r2/templates/subscriptionbox.html:57
@@ -4524,7 +4525,7 @@ msgstr ""
 #: r2/templates/subredditstylesheet.html:81
 #: r2/templates/subredditstylesheet.html:262
 msgid "preview"
-msgstr ""
+msgstr "معاينة"
 
 #: r2/templates/subredditstylesheet.html:96
 msgid "images"
@@ -4536,15 +4537,15 @@ msgstr "ملف صورة"
 
 #: r2/templates/subredditstylesheet.html:103
 msgid "new image name:"
-msgstr ""
+msgstr "أسم جديد للصورة:"
 
 #: r2/templates/subredditstylesheet.html:108
 msgid "(image names should consist of alphanumeric characters and '-' only)"
-msgstr ""
+msgstr "(أسم الصورة يجب أن يتكون من حروف و أرقام و '-' فقط)"
 
 #: r2/templates/subredditstylesheet.html:112
 msgid "Note: any changes to images here will be reflected immediately on reload and cannot be undone."
-msgstr ""
+msgstr "ملاحظة: أي تغير للصور هنا سوف يتم فوراً عند إعادة التحميل و لا يمكن التراجع عنه."
 
 #: r2/templates/subredditstylesheet.html:205
 msgid "please select an image"
@@ -4568,7 +4569,7 @@ msgstr "رابط مضغوط"
 
 #: r2/templates/subredditstylesheet.html:273
 msgid "link with thumbnail"
-msgstr ""
+msgstr "رابط مع صورة مصغرة"
 
 #: r2/templates/thanks.html:34
 msgid "thanks for subscribing!"
@@ -4580,23 +4581,24 @@ msgstr ""
 
 #: r2/templates/thanks.html:41
 msgid "enter your confirmation code below to activate reddit gold"
-msgstr ""
+msgstr "أدخل شفرة التحقيق تحت لتفعيل ردّئٍت الذهبي"
 
 #: r2/templates/thanks.html:44
 msgid "You claimed a reddit gold subscription in the last few minutes."
-msgstr ""
+msgstr "لقد طالبت بإشتراك ردّئِت الذهبي خلال الدقائق الماضية."
 
 #: r2/templates/thanks.html:46
 msgid "You're already a reddit gold subscriber."
-msgstr ""
+msgstr "أنك مشترك ردّئِت ذهبي حالياً"
 
 #: r2/templates/thanks.html:49
 msgid "But if you just gave us even more money, enter the new confirmation code below and we'll add the extra credit to your account."
 msgstr ""
 
 #: r2/templates/thanks.html:62
+#, fuzzy
 msgid "claim"
-msgstr ""
+msgstr "مطالبة"
 
 #: r2/templates/trophycase.html:74
 msgid "dust"
@@ -4605,7 +4607,7 @@ msgstr "غبار"
 #: r2/templates/trophycase.html:107
 #, python-format
 msgid "%d more"
-msgstr ""
+msgstr "%d المزيد"
 
 #: r2/templates/unfoundpage.html:25
 msgid "the page you requested does not exist"
@@ -4613,39 +4615,39 @@ msgstr "الصفحة التي طلبتها غير موجودة"
 
 #: r2/templates/userawards.html:39
 msgid "Ongoing awards, and their most recent winners:"
-msgstr ""
+msgstr "الجوائز الحالية، و الفائزين بها مؤخراً:"
 
 #: r2/templates/userawards.html:54
 msgid "won by"
-msgstr ""
+msgstr "ربحه"
 
 #: r2/templates/userawards.html:57
 msgid "recently won by"
-msgstr ""
+msgstr "ربحه مؤخراً"
 
 #: r2/templates/userawards.html:85
 msgid "for this"
-msgstr ""
+msgstr "لهاذا"
 
 #: r2/templates/userawards.html:95
 msgid "Special awards:"
-msgstr ""
+msgstr "جوائز خاصة:"
 
 #: r2/templates/useriphistory.html:30
 msgid "Recent activity on your account"
-msgstr ""
+msgstr "الفعاليات الأخيرة على حسابك"
 
 #: r2/templates/useriphistory.html:39
 msgid "IP address"
-msgstr ""
+msgstr "عنوان الأبي"
 
 #: r2/templates/useriphistory.html:40
 msgid "Location"
-msgstr ""
+msgstr "المنطقة"
 
 #: r2/templates/useriphistory.html:41
 msgid "Last Visit"
-msgstr ""
+msgstr "أخر زيارة"
 
 #: r2/templates/userlist.html:37
 msgid "add"
@@ -4657,7 +4659,7 @@ msgstr "لايمكن المسح"
 
 #: r2/templates/usertext.html:72
 msgid "formatting help"
-msgstr ""
+msgstr "تنسيق المساعدة"
 
 #: r2/templates/usertext.html:95
 msgid "you type:"
@@ -4689,7 +4691,7 @@ msgstr "عنصر"
 #: r2/templates/usertext.html:125
 #: r2/templates/usertext.html:126
 msgid "quoted text"
-msgstr ""
+msgstr "نص مروي"
 
 #: r2/templates/utils.html:228
 msgid "all languages"
@@ -4713,7 +4715,7 @@ msgstr "تحميل"
 
 #: r2/templates/utils.html:516
 msgid "popular choices"
-msgstr ""
+msgstr "خيارات شائعة"
 
 #: r2/templates/widgetdemopanel.html:111
 #, python-format
@@ -4743,38 +4745,38 @@ msgstr "حفظت بواسطة"
 
 #: r2/templates/widgetdemopanel.html:133
 msgid "liked by"
-msgstr ""
+msgstr "أعجب بـ"
 
 #: r2/templates/widgetdemopanel.html:134
 msgid "disliked by"
-msgstr ""
+msgstr "لم يعجب بـ"
 
 #: r2/templates/widgetdemopanel.html:145
 msgid "listing options"
-msgstr ""
+msgstr "خيارات التعداد"
 
 #: r2/templates/widgetdemopanel.html:151
 #, python-format
 msgid "links from %(domain)s"
-msgstr ""
+msgstr "روابط من %(domain)s"
 
 #: r2/templates/widgetdemopanel.html:155
 #, python-format
 msgid "links %(submitted_by)s the user %(who)s"
-msgstr ""
+msgstr "روابط %(submitted_by)s المُتسخدم %(who)s"
 
 #: r2/templates/widgetdemopanel.html:159
 #, python-format
 msgid "links from the domain %(domain)s"
-msgstr ""
+msgstr "راوبط من النطاق %(domain)s"
 
 #: r2/templates/widgetdemopanel.html:165
 msgid "sorting options"
-msgstr ""
+msgstr "خيارات التصنيف"
 
 #: r2/templates/widgetdemopanel.html:171
 msgid "hottest"
-msgstr ""
+msgstr "أكثر سخونة"
 
 #: r2/templates/widgetdemopanel.html:172
 msgid "newest"
@@ -4783,16 +4785,16 @@ msgstr "الأحدث"
 #: r2/templates/widgetdemopanel.html:176
 #, python-format
 msgid "sort links by %(what)s"
-msgstr ""
+msgstr "صنف الروابط بـ %(what)s"
 
 #: r2/templates/widgetdemopanel.html:179
 #, python-format
 msgid "date range includes %(when)s"
-msgstr ""
+msgstr "مدى التاريخ يحتوي على %(when)s"
 
 #: r2/templates/widgetdemopanel.html:182
 msgid "number of links to show"
-msgstr ""
+msgstr "عدد الروابط لظهارها"
 
 #: r2/templates/widgetdemopanel.html:200
 msgid "remove css styling"
@@ -4808,11 +4810,11 @@ msgstr ""
 
 #: r2/templates/widgetdemopanel.html:212
 msgid "(will slow down the rendering)"
-msgstr ""
+msgstr "(سوف يبطء التقديم)"
 
 #: r2/templates/widgetdemopanel.html:221
 msgid "two columns"
-msgstr ""
+msgstr "عمودان"
 
 #: r2/templates/widgetdemopanel.html:228
 msgid "background color"
@@ -4820,11 +4822,11 @@ msgstr "لون الخلفية"
 
 #: r2/templates/widgetdemopanel.html:232
 msgid "(e.g., FF0000 = red)"
-msgstr ""
+msgstr "(مثال: FF0000 = أحمر )"
 
 #: r2/templates/widgetdemopanel.html:239
 msgid "border color"
-msgstr ""
+msgstr "لون المحيط"
 
 #: r2/templates/widgetdemopanel.html:249
 msgid "the code"
