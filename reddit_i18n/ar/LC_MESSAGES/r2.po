@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: r2 0.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-09 15:06-0800\n"
-"PO-Revision-Date: 2011-11-18 13:54+0400\n"
+"PO-Revision-Date: 2011-11-18 17:06+0400\n"
 "Last-Translator: StompingBrokenGlass <StompingBrokenGlass@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -130,7 +130,7 @@ msgstr "ستصلك رساله علي بريدك الالكتروني خلال ل
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "جرب مرة آخرى غداً"
 
 #: r2/controllers/api.py:1905
 #: r2/controllers/api.py:2066
@@ -310,7 +310,7 @@ msgstr "هذا الرقم ليس في المدي الصحيح(%(min)d - %(max)d)
 
 #: r2/controllers/errors.py:54
 msgid "you used a character here that we can't handle"
-msgstr ""
+msgstr "لقد أستخدمت هنا رمز لايمكنا أستخدامه"
 
 #: r2/controllers/errors.py:55
 #, python-format
@@ -335,7 +335,7 @@ msgstr "لايسمح لك بالكتابة هناك"
 
 #: r2/controllers/errors.py:60
 msgid "you must specify a subreddit"
-msgstr ""
+msgstr "عليك تحديد ردّئِت فرعية"
 
 #: r2/controllers/errors.py:61
 msgid "that name isn't going to work"
@@ -344,7 +344,7 @@ msgstr "هذا الاسم لا يمكن استخدامه"
 #: r2/controllers/errors.py:62
 #, python-format
 msgid "you are doing that too much. try again in %(time)s."
-msgstr ""
+msgstr "أنك تفعل ذالك كثيراً. الرجاء المحاولة خلال %(time)s"
 
 #: r2/controllers/errors.py:63
 msgid "your session has expired"
@@ -398,17 +398,17 @@ msgstr ""
 #: r2/controllers/errors.py:78
 #, python-format
 msgid "address problem: %(message)s"
-msgstr ""
+msgstr "مُشكِلة في العنوان: %(message)s"
 
 #: r2/controllers/errors.py:79
 #, python-format
 msgid "card problem: %(message)s"
-msgstr ""
+msgstr "مُشكِلة في البطاقة:%(message)s"
 
 #: r2/controllers/errors.py:80
 #, python-format
 msgid "this is too long (max: %(max_length)s)"
-msgstr ""
+msgstr "هذا طويل جداً (الحد الأقصى: %(max_length)s)"
 
 #: r2/controllers/errors.py:81
 msgid "we need something here"
@@ -452,7 +452,7 @@ msgstr "الدخول مرفوض من قبل المستخدم"
 
 #: r2/controllers/errors.py:91
 msgid "please confirm the form"
-msgstr ""
+msgstr "الرجاء تأكيد الإستمارة"
 
 #: r2/controllers/feedback.py:40
 msgid "help translate reddit into your language"
@@ -465,7 +465,7 @@ msgstr "ساعد في الترجمة"
 
 #: r2/controllers/front.py:121
 msgid "self service help"
-msgstr ""
+msgstr "مُساعدة الخدمة الذاتية"
 
 #: r2/controllers/front.py:304
 msgid "no comments (yet)"
@@ -543,7 +543,7 @@ msgstr "استرجع كلمة السر"
 #: r2/controllers/front.py:1012
 #: r2/controllers/post.py:161
 msgid "opt out"
-msgstr ""
+msgstr "إنسحاب"
 
 #: r2/controllers/front.py:1012
 #: r2/controllers/post.py:171
@@ -589,7 +589,7 @@ msgstr ""
 #: r2/controllers/ipn.py:474
 #, python-format
 msgid "Your gift to %s has been delivered."
-msgstr ""
+msgstr "لقد تم إيصال هديتك لـ %s"
 
 #: r2/controllers/listingcontroller.py:348
 msgid "newest submissions"
@@ -698,7 +698,7 @@ msgstr "مروج من قبلك"
 
 #: r2/controllers/promotecontroller.py:443
 msgid "failed to authenticate card.  sorry."
-msgstr ""
+msgstr "للأسف. تم الفشل في التأكد من البطاقة"
 
 #: r2/controllers/promotecontroller.py:488
 msgid "bad image"
@@ -710,31 +710,31 @@ msgstr "البحث فشل"
 
 #: r2/controllers/validator/validator.py:1476
 msgid "please provide a first name"
-msgstr ""
+msgstr "الرجاء تزويد الأسم الأول"
 
 #: r2/controllers/validator/validator.py:1478
 msgid "please provide a last name"
-msgstr ""
+msgstr "الرجاء تزويد الأسم الأخير ( أسم العائلة)"
 
 #: r2/controllers/validator/validator.py:1480
 msgid "please provide an address"
-msgstr ""
+msgstr "الرجاء تزويد عنوان"
 
 #: r2/controllers/validator/validator.py:1482
 msgid "please provide your city"
-msgstr ""
+msgstr "الرجاء تزويد مدينتك"
 
 #: r2/controllers/validator/validator.py:1484
 msgid "please provide your state"
-msgstr ""
+msgstr "الرجاء تزويد ولايتك"
 
 #: r2/controllers/validator/validator.py:1486
 msgid "please provide your zip or post code"
-msgstr ""
+msgstr "الرجاء تزويد الرقم البريدي"
 
 #: r2/controllers/validator/validator.py:1488
 msgid "please pick a country"
-msgstr ""
+msgstr "الرجاء إختيار دولة"
 
 #: r2/controllers/validator/validator.py:1492
 msgid "Our ToS don't cover your country (yet). Sorry."
@@ -1478,11 +1478,11 @@ msgstr ""
 #: r2/lib/strings.py:121
 #, python-format
 msgid "syntax error: \"%(syntaxerror)s\""
-msgstr ""
+msgstr "تركيب الجملة خاطئ: \"\%(syntaxerror)s\""
 
 #: r2/lib/strings.py:122
 msgid "@imports are not allowed"
-msgstr ""
+msgstr "@imports غير مسموح بها"
 
 #: r2/lib/strings.py:123
 #, python-format
@@ -1951,7 +1951,7 @@ msgstr "خزانة الكؤوس"
 
 #: r2/lib/pages/pages.py:1200
 msgid "an unknown amount"
-msgstr ""
+msgstr "مبلغ غير معروف"
 
 #: r2/lib/pages/pages.py:1208
 msgid "less than a day"
@@ -1987,7 +1987,7 @@ msgstr "أرفعها إلى %s"
 #: r2/lib/pages/pages.py:1408
 #, python-format
 msgid "%s visible"
-msgstr ""
+msgstr "%s مرئي"
 
 #: r2/lib/pages/pages.py:1406
 #, python-format
@@ -2198,23 +2198,23 @@ msgstr "على reddit.com"
 
 #: r2/templates/admintranslations.html:62
 msgid "disable"
-msgstr ""
+msgstr "تعطيل"
 
 #: r2/templates/admintranslations.html:63
 msgid "disabled"
-msgstr ""
+msgstr "معطل"
 
 #: r2/templates/admintranslations.html:66
 msgid "enable"
-msgstr ""
+msgstr "تمكين"
 
 #: r2/templates/admintranslations.html:67
 msgid "enabled"
-msgstr ""
+msgstr "تم تمكين"
 
 #: r2/templates/admintranslations.html:100
 msgid "add authors"
-msgstr ""
+msgstr "إضافة محرريين"
 
 #: r2/templates/base.html:51
 msgid "/* Custom css: use this block to insert special translation-dependent css in the page header */"
