@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: r2 0.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-09 15:06-0800\n"
-"PO-Revision-Date: 2011-11-18 10:08+0400\n"
+"PO-Revision-Date: 2011-11-18 13:54+0400\n"
 "Last-Translator: StompingBrokenGlass <StompingBrokenGlass@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -161,7 +161,7 @@ msgstr "أزرار ريدت"
 
 #: r2/controllers/buttons.py:215
 msgid "reddit widget"
-msgstr "widege ريديت"
+msgstr "widegt ريديت"
 
 #: r2/controllers/buttons.py:220
 msgid "bookmarklets"
@@ -2619,7 +2619,7 @@ msgstr ""
 
 #: r2/templates/createsubreddit.html:163
 msgid "domain"
-msgstr ""
+msgstr "نطاق"
 
 #: r2/templates/createsubreddit.html:170
 msgid "make custom CSS styles apply only when accessed from the cname."
@@ -3527,49 +3527,49 @@ msgstr ""
 
 #: r2/templates/preffeeds.html:54
 msgid "your front page"
-msgstr ""
+msgstr "صفحتك الرئيسية"
 
 #: r2/templates/preffeeds.html:57
 msgid "your saved links"
-msgstr ""
+msgstr "روابطك المحفوظة"
 
 #: r2/templates/preffeeds.html:64
 msgid "links you've liked"
-msgstr ""
+msgstr "روابط أعجبتك"
 
 #: r2/templates/preffeeds.html:67
 msgid "links you've disliked"
-msgstr ""
+msgstr "روابك لم تعُجبك"
 
 #: r2/templates/preffeeds.html:70
 msgid "links you've hidden"
-msgstr ""
+msgstr "روابط أخفيتها"
 
 #: r2/templates/preffeeds.html:77
 #: r2/templates/preffeeds.html:97
 msgid "everything"
-msgstr ""
+msgstr "كل شي"
 
 #: r2/templates/preffeeds.html:80
 #: r2/templates/preffeeds.html:100
 msgid "unread messages"
-msgstr ""
+msgstr "الرسائل الغير مقروئة"
 
 #: r2/templates/preffeeds.html:83
 msgid "messages only"
-msgstr ""
+msgstr "فقط الرسائل"
 
 #: r2/templates/preffeeds.html:86
 msgid "comment replies only"
-msgstr ""
+msgstr "ردود التعليقات فقط"
 
 #: r2/templates/preffeeds.html:89
 msgid "self-post replies only"
-msgstr ""
+msgstr "ردود المناشير الذاتية فقط"
 
 #: r2/templates/prefoptions.html:71
 msgid "your preferences have been updated"
-msgstr ""
+msgstr "تم تحديث خياراتك"
 
 #: r2/templates/prefoptions.html:89
 msgid "interface language"
@@ -3593,32 +3593,32 @@ msgstr "خيارات النقر"
 
 #: r2/templates/prefoptions.html:107
 msgid "display links with a reddit toolbar"
-msgstr ""
+msgstr "إظهار الروابط مع شريط الأدوات"
 
 #: r2/templates/prefoptions.html:113
 #: r2/templates/promotelinkform.html:352
 msgid "media"
-msgstr ""
+msgstr "ميديا"
 
 #: r2/templates/prefoptions.html:116
 msgid "show thumbnails next to links"
-msgstr ""
+msgstr "أظهار صور مصغرة بجانب الروابط"
 
 #: r2/templates/prefoptions.html:117
 msgid "don't show thumbnails next to links"
-msgstr ""
+msgstr "أخفي الصور المصغرة بجانب الروابط"
 
 #: r2/templates/prefoptions.html:118
 msgid "show thumbnails based on that reddit's media preferences"
-msgstr ""
+msgstr "أظهر صور مصغرة على حسب إعدادت الميديا الخاصة بريددت"
 
 #: r2/templates/prefoptions.html:119
 msgid "make safe(r) for work "
-msgstr ""
+msgstr "أجعله آمن للعمل"
 
 #: r2/templates/prefoptions.html:122
 msgid "(Don't show thumbnails next to anything labeled NSFW)"
-msgstr ""
+msgstr "(لا تظهر صور مصغرة بجانب روابط مُعَلمة بغير آمن للعمل)"
 
 #: r2/templates/prefoptions.html:125
 msgid "to enable thumbnails, disable compressed link display"
@@ -3655,7 +3655,7 @@ msgstr ""
 #: r2/templates/prefoptions.html:150
 #: r2/templates/prefoptions.html:154
 msgid "(except my own)"
-msgstr ""
+msgstr "(غير الخاص بي)"
 
 #: r2/templates/prefoptions.html:152
 msgid "don't show links after i've disliked them"
@@ -3716,11 +3716,11 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:206
 msgid "messaging options"
-msgstr ""
+msgstr "خيارات الرسائل"
 
 #: r2/templates/prefoptions.html:208
 msgid "show message conversations in the inbox"
-msgstr ""
+msgstr "أظهار محادثات الرسائل في صندوق الوارد"
 
 #: r2/templates/prefoptions.html:211
 msgid "(only applies when you go to the 'messages' panel)"
@@ -3745,7 +3745,7 @@ msgstr ""
 #: r2/templates/prefoptions.html:230
 #: r2/templates/widgetdemopanel.html:193
 msgid "display options"
-msgstr ""
+msgstr "إظهار الخيارات"
 
 #: r2/templates/prefoptions.html:232
 msgid "allow reddits to show me custom styles"
@@ -3806,7 +3806,7 @@ msgstr ""
 
 #: r2/templates/prefoptions.html:299
 msgid "gold options"
-msgstr ""
+msgstr "خيارات الذهب"
 
 #: r2/templates/prefoptions.html:301
 msgid "show the right sidebar ad box"
@@ -3842,68 +3842,70 @@ msgstr ""
 
 #: r2/templates/prefupdate.html:28
 msgid "update your email or password"
-msgstr ""
+msgstr "تحديث بريدك الإلكتروني أو كلمة السر"
 
 #: r2/templates/prefupdate.html:31
 msgid "verify your email"
-msgstr ""
+msgstr "تأكيد بريدك الألكتروني"
 
 #: r2/templates/prefupdate.html:33
 msgid "update your email"
-msgstr ""
+msgstr "تحديث بريدك الألكتروني"
 
 #: r2/templates/prefupdate.html:36
 msgid "update your password"
-msgstr ""
+msgstr "تحديث كلمة السر"
 
 #: r2/templates/prefupdate.html:45
 msgid "not set"
-msgstr ""
+msgstr "غير مُحدد"
 
 #: r2/templates/prefupdate.html:48
 msgid "verified"
-msgstr ""
+msgstr "تم التأكيد"
 
 #: r2/templates/prefupdate.html:51
 msgid "verification pending"
-msgstr ""
+msgstr "تأكيد معلق"
 
 #: r2/templates/prefupdate.html:52
 msgid "click to resend"
-msgstr ""
+msgstr "أضغط لإعادة الإرسال"
 
 #: r2/templates/prefupdate.html:54
 msgid "unverified"
-msgstr ""
+msgstr "غير مؤكد"
 
 #: r2/templates/prefupdate.html:55
 msgid "click to verify"
-msgstr ""
+msgstr "أضغط للتأكد"
 
 #: r2/templates/prefupdate.html:65
 msgid "(required)"
-msgstr ""
+msgstr "(مطلوب)"
 
 #: r2/templates/prefupdate.html:65
 msgid "current password"
-msgstr ""
+msgstr "كلمة السر الحالية"
 
 #: r2/templates/prefupdate.html:80
 #: r2/templates/resetpassword.html:38
 msgid "new password"
-msgstr ""
+msgstr "كلمة السر الجديدة"
 
 #: r2/templates/prefupdate.html:96
 msgid "send verification email"
-msgstr ""
+msgstr "أرسال رسالة التحقق"
 
 #: r2/templates/printablebuttons.html:38
+#, fuzzy
 msgid "indict"
-msgstr ""
+msgstr "أتهم"
 
 #: r2/templates/printablebuttons.html:38
+#, fuzzy
 msgid "indicted"
-msgstr ""
+msgstr "متهم"
 
 #: r2/templates/printablebuttons.html:45
 #: r2/templates/trophycase.html:47
@@ -3917,49 +3919,49 @@ msgstr "أزل"
 #: r2/templates/trophycase.html:47
 #: r2/templates/trophycase.html:67
 msgid "removed"
-msgstr ""
+msgstr "محذوف"
 
 #: r2/templates/printablebuttons.html:51
 msgid "approve"
-msgstr ""
+msgstr "تصريح"
 
 #: r2/templates/printablebuttons.html:52
 #: r2/templates/printablebuttons.html:143
 #: r2/templates/subredditinfobar.html:82
 msgid "approved"
-msgstr ""
+msgstr "مُصرح به"
 
 #: r2/templates/printablebuttons.html:58
 msgid "report"
-msgstr ""
+msgstr "إبلاغ"
 
 #: r2/templates/printablebuttons.html:62
 msgid "nsfw"
-msgstr ""
+msgstr "غير آمن للعمل"
 
 #: r2/templates/printablebuttons.html:62
 msgid "marked"
-msgstr ""
+msgstr "مُعَلم"
 
 #: r2/templates/printablebuttons.html:65
 msgid "un-nsfw"
-msgstr ""
+msgstr "آمن للعمل"
 
 #: r2/templates/printablebuttons.html:65
 msgid "unmarked"
-msgstr ""
+msgstr "غير مُعَلم"
 
 #: r2/templates/printablebuttons.html:78
 msgid "distinguishing..."
-msgstr ""
+msgstr "يتم التميز..."
 
 #: r2/templates/printablebuttons.html:80
 msgid "distinguish"
-msgstr ""
+msgstr "تميز"
 
 #: r2/templates/printablebuttons.html:82
 msgid "distinguish this?"
-msgstr ""
+msgstr "تميز هذا؟"
 
 #: r2/templates/printablebuttons.html:123
 #, python-format
@@ -4005,11 +4007,11 @@ msgstr "تم القبول"
 
 #: r2/templates/printablebuttons.html:223
 msgid "traffic"
-msgstr ""
+msgstr "حركة"
 
 #: r2/templates/printablebuttons.html:230
 msgid "questionable submission; you should remove it or approve it"
-msgstr ""
+msgstr "مُرسل مشككوك ، هل تريد حذفه أو تصريحه"
 
 #: r2/templates/printablebuttons.html:232
 msgid "deputy opinion:"
@@ -4028,7 +4030,7 @@ msgstr ""
 #: r2/templates/printablebuttons.html:260
 #: r2/templates/printablebuttons.html:319
 msgid "permalink"
-msgstr ""
+msgstr "رابط ثابت"
 
 #: r2/templates/printablebuttons.html:264
 #: r2/templates/printablebuttons.html:315
@@ -4038,7 +4040,7 @@ msgstr "السياق"
 
 #: r2/templates/printablebuttons.html:267
 msgid "full comments"
-msgstr ""
+msgstr "كامل التعليقات"
 
 #: r2/templates/printablebuttons.html:277
 #: r2/templates/printablebuttons.html:284
@@ -4060,7 +4062,7 @@ msgstr "محجوب"
 
 #: r2/templates/printablebuttons.html:330
 msgid "mark unread"
-msgstr ""
+msgstr "وضع علامة غير مقروء"
 
 #: r2/templates/printablebuttons.html:384
 msgid "are you sure?"
@@ -4068,27 +4070,27 @@ msgstr "هل أنت متأكد؟"
 
 #: r2/templates/printablebuttons.html:480
 msgid "toggle"
-msgstr ""
+msgstr "تبديل"
 
 #: r2/templates/profilebar.html:53
 msgid "+ friends"
-msgstr ""
+msgstr "+ أصدقاء"
 
 #: r2/templates/profilebar.html:53
 msgid "- friends"
-msgstr ""
+msgstr "- أصدقاء"
 
 #: r2/templates/profilebar.html:91
 msgid "link karma"
-msgstr ""
+msgstr "كارما الروابط"
 
 #: r2/templates/profilebar.html:96
 msgid "comment karma"
-msgstr ""
+msgstr "كارما التعليقات"
 
 #: r2/templates/profilebar.html:110
 msgid "of reddit gold remaining"
-msgstr ""
+msgstr "متبقي من ذهب ردديت"
 
 #: r2/templates/profilebar.html:118
 msgid "Recurring Paypal subscription"
@@ -4101,11 +4103,11 @@ msgstr "أرسل رسالة"
 
 #: r2/templates/profilebar.html:143
 msgid "redditor for"
-msgstr ""
+msgstr "ريددتور لـ"
 
 #: r2/templates/promote_graph.html:171
 msgid "total promotion traffic"
-msgstr ""
+msgstr "مجموع الحركة للترويج"
 
 #: r2/templates/promote_graph.html:185
 msgid "historical site performance"
@@ -4164,11 +4166,11 @@ msgstr ""
 
 #: r2/templates/promotelinkform.html:64
 msgid "create a promotion"
-msgstr ""
+msgstr "أبني ترويج"
 
 #: r2/templates/promotelinkform.html:64
 msgid "edit promotion"
-msgstr ""
+msgstr "تحرير الترويج"
 
 #: r2/templates/promotelinkform.html:76
 msgid "campaign dashboard"
@@ -4224,7 +4226,7 @@ msgstr ""
 
 #: r2/templates/redditheader.html:32
 msgid "jump to content"
-msgstr ""
+msgstr "الذهاب إلى الموضوع"
 
 #: r2/templates/redditheader.html:65
 #, python-format
@@ -4237,7 +4239,7 @@ msgstr "سجل"
 
 #: r2/templates/redditheader.html:103
 msgid "mod messages"
-msgstr ""
+msgstr "رسائل المراقب"
 
 #: r2/templates/reddittraffic.html:48
 #: r2/templates/reddittraffic.html:55
@@ -4290,11 +4292,11 @@ msgstr ""
 
 #: r2/templates/roadblocks.html:34
 msgid "create a roadblock"
-msgstr ""
+msgstr "أبني حاجز"
 
 #: r2/templates/roadblocks.html:94
 msgid "existing roadblocks"
-msgstr ""
+msgstr "الحواجز المتواجدة"
 
 #: r2/templates/searchbar.html:41
 #, python-format
@@ -4449,7 +4451,7 @@ msgstr ""
 #: r2/templates/subreddit.html:85
 #: r2/templates/subreddit.html:86
 msgid "not approved"
-msgstr ""
+msgstr "غير مصرح"
 
 #: r2/templates/subreddit.html:97
 msgid "over18"
@@ -4457,7 +4459,7 @@ msgstr "فوق١٨"
 
 #: r2/templates/subredditinfobar.html:34
 msgid "leave"
-msgstr ""
+msgstr "مغادرة"
 
 #: r2/templates/subredditinfobar.html:48
 #, python-format
@@ -4651,7 +4653,7 @@ msgstr "أضف"
 
 #: r2/templates/usertableitem.html:61
 msgid "can't remove"
-msgstr ""
+msgstr "لايمكن المسح"
 
 #: r2/templates/usertext.html:72
 msgid "formatting help"
@@ -4699,15 +4701,15 @@ msgstr "بعض اللغات"
 
 #: r2/templates/utils.html:295
 msgid "Type: "
-msgstr ""
+msgstr "نوع:"
 
 #: r2/templates/utils.html:305
 msgid "uploading"
-msgstr ""
+msgstr "يتم التحميل"
 
 #: r2/templates/utils.html:307
 msgid "upload"
-msgstr ""
+msgstr "تحميل"
 
 #: r2/templates/utils.html:516
 msgid "popular choices"
