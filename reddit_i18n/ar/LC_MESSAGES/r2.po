@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: r2 0.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-09 15:06-0800\n"
-"PO-Revision-Date: 2012-01-06 00:41+0400\n"
+"PO-Revision-Date: 2012-01-06 01:32+0400\n"
 "Last-Translator: StompingBrokenGlass <StompingBrokenGlass@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -1768,8 +1768,12 @@ msgstr[5] "مشرفين"
 #: r2/lib/strings.py:244
 msgid "milliseconds"
 msgid_plural "milliseconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "جزء من الثانية"
+msgstr[1] "جزء من الثانية"
+msgstr[2] "جزين من الثانية"
+msgstr[3] "أجزاء من الثانية"
+msgstr[4] "جزء من الثانية"
+msgstr[5] "جزء من الثانية"
 
 #: r2/lib/strings.py:245
 #: r2/templates/searchbar.html:44
@@ -2266,7 +2270,7 @@ msgstr "انقر بالزر الايمن على"
 
 #: r2/templates/bookmarklets.html:57
 msgid "then choose \"Add to Favorites\" and add to the \"Links\" folder."
-msgstr ""
+msgstr "ثم أختار \"أضيف إلى مفصلتي\" و أضف إلى مجلد \"الروابط\" ."
 
 #: r2/templates/bookmarklets.html:62
 msgid "in Safari"
@@ -2292,7 +2296,7 @@ msgstr "أزرار شائع أستعمالها"
 
 #: r2/templates/buttondemopanel.html:35
 msgid "use one of these buttons to quickly add reddit links to your site, or       see below for more options."
-msgstr ""
+msgstr "أستخدم أحدى هذه الأزرار لإضافة راوبط ريدّيت لموقعك بصورة سريعة ، أو أطلع على التالي لمزيد من الخيارات"
 
 #: r2/templates/buttondemopanel.html:46
 msgid "buttons with points"
@@ -2304,11 +2308,11 @@ msgstr "تخصيص مظهر أزرارك"
 
 #: r2/templates/buttondemopanel.html:53
 msgid "the buttons with points have three additional options."
-msgstr ""
+msgstr "الأزرار بنقاط ثلاث تحتوى على خيارات إضافية"
 
 #: r2/templates/buttondemopanel.html:56
 msgid "no styles will be added, so you can style it yourself"
-msgstr ""
+msgstr "لن يتم إضافة تجميلات ، حتى يمكنك تجميله بنفسك"
 
 #: r2/templates/buttondemopanel.html:58
 msgid "specify a url to use instead of the current url"
@@ -2503,11 +2507,11 @@ msgstr "على"
 
 #: r2/templates/commentspanel.html:38
 msgid "This sidebar will automatically appear when there are comments."
-msgstr ""
+msgstr "الائحة الجانبية سوف تظهر تلقائياً عند وجود تعليقات ."
 
 #: r2/templates/commentspanel.html:40
 msgid "This sidebar will not be shown automatically."
-msgstr ""
+msgstr "الائحة الجانبية لن يتم إظهارها تلقائياً"
 
 #: r2/templates/commentvisitsbox.html:25
 msgid "You've been here before. To highlight comments that were posted since one of your visits, select it below:"
@@ -2523,7 +2527,7 @@ msgstr "هذا الريدّيت الثانوي غير موجود ، لكن يم�
 
 #: r2/templates/createsubreddit.html:55
 msgid "no spaces, e.g., slashdot"
-msgstr ""
+msgstr "لا فراغات ، مثال. سلاشدوت"
 
 #: r2/templates/createsubreddit.html:55
 msgid "name"
@@ -2531,7 +2535,7 @@ msgstr "أسم"
 
 #: r2/templates/createsubreddit.html:69
 msgid "e.g., slashdot: news for nerds, stuff that matters"
-msgstr ""
+msgstr "مثال. سلاشدوت: أخبار للمُجدين ، أشياء تهم "
 
 #: r2/templates/createsubreddit.html:69
 #: r2/templates/newlink.html:55
@@ -2569,7 +2573,7 @@ msgstr "محدد"
 
 #: r2/templates/createsubreddit.html:108
 msgid "anyone can view, but only some are approved to submit links"
-msgstr ""
+msgstr "يمكن للكل القراءة ، و لكن فقط البعض ممسموح له بنشر الروابط"
 
 #: r2/templates/createsubreddit.html:110
 #: r2/templates/subreddit.html:93
@@ -2578,12 +2582,12 @@ msgstr "خاص"
 
 #: r2/templates/createsubreddit.html:111
 msgid "only approved members can view and submit"
-msgstr ""
+msgstr "فقط المشتركين المصرحين يمكنهم القراءة و النشر"
 
 #: r2/templates/createsubreddit.html:117
 #: r2/templates/prefoptions.html:243
 msgid "content options"
-msgstr ""
+msgstr "خيارات المتوى"
 
 #: r2/templates/createsubreddit.html:120
 msgid "any"
@@ -2599,31 +2603,31 @@ msgstr "روابط فقط"
 
 #: r2/templates/createsubreddit.html:124
 msgid "only links to external sites are allowed"
-msgstr ""
+msgstr "مسموح بروابط لمواقع خارجية فقط"
 
 #: r2/templates/createsubreddit.html:126
 msgid "text posts only"
-msgstr ""
+msgstr "منشورات كتابية فقط"
 
 #: r2/templates/createsubreddit.html:127
 msgid "only text/self posts are allowed"
-msgstr ""
+msgstr "مسموح بمنشورات كتابية أو ذاتية فقط"
 
 #: r2/templates/createsubreddit.html:133
 msgid "other options"
-msgstr ""
+msgstr "خيارات أخرى"
 
 #: r2/templates/createsubreddit.html:140
 msgid "viewers must be over eighteen years old"
-msgstr ""
+msgstr "المشاهدين يجب أن يكونو فوق عمر الثامنة عشرة"
 
 #: r2/templates/createsubreddit.html:148
 msgid "allow this reddit to be shown in the default set"
-msgstr ""
+msgstr "أسمح لهذا الريدّيت ليظهر في المجموعة الإفتراضية"
 
 #: r2/templates/createsubreddit.html:156
 msgid "show thumbnail images of content"
-msgstr ""
+msgstr "أظهر صورة مصغرة من المحتويات"
 
 #: r2/templates/createsubreddit.html:163
 msgid "domain"
@@ -2631,11 +2635,11 @@ msgstr "نطاق"
 
 #: r2/templates/createsubreddit.html:170
 msgid "make custom CSS styles apply only when accessed from the cname."
-msgstr ""
+msgstr "أستخدام تجميلات CSS الخاصة عندما يتم الدخول من cname فقط ."
 
 #: r2/templates/createsubreddit.html:177
 msgid "show sidebar when accessed from the cname."
-msgstr ""
+msgstr "أظهر اللوحة الجانبية عندما يتم الدخول من cname ."
 
 #: r2/templates/createsubreddit.html:189
 #: r2/templates/usertext.html:72
@@ -2644,16 +2648,16 @@ msgstr "إخفاء المساعدة"
 
 #: r2/templates/createsubreddit.html:193
 msgid "Own a domain?  Enter it here and then go to your DNS provider and add a CNAME record aliasing your domain to rhs.reddit.com. You will be able to access your reddit through your domain."
-msgstr ""
+msgstr "تملك نطاق ؟ إضفه هنا ثم إذهب إلى مقدم خدمة أسماء النطاقات (DNS) و أضف سجل CNAME لتقديم أسم ثانوي من نطاقك إلى rhs.derddit.com. عند إذن يمكنك الدخول لريدّيتك من خلال نطاقك."
 
 #: r2/templates/createsubreddit.html:200
 #: r2/templates/promotelinkform.html:297
 msgid "look and feel"
-msgstr ""
+msgstr "المنظر و الملمس"
 
 #: r2/templates/createsubreddit.html:203
 msgid "edit the stylesheet"
-msgstr ""
+msgstr "تحرير قائمة التجميلات"
 
 #: r2/templates/createsubreddit.html:207
 msgid "leaves this page"
@@ -2661,11 +2665,11 @@ msgstr "مغادرة هذه الصفحة"
 
 #: r2/templates/createsubreddit.html:216
 msgid "upload header image"
-msgstr ""
+msgstr "تحميل الصورة المقدمة"
 
 #: r2/templates/createsubreddit.html:226
 msgid "restore default header"
-msgstr ""
+msgstr "إرجاع المقدمة الإفتراضية"
 
 #: r2/templates/createsubreddit.html:244
 msgid "sponsorship"
@@ -2673,15 +2677,15 @@ msgstr "رعاية"
 
 #: r2/templates/createsubreddit.html:256
 msgid "name this campaign (for traffic)"
-msgstr ""
+msgstr "تسمية هذا الترويج ( للحركة )"
 
 #: r2/templates/createsubreddit.html:265
 msgid "enter link url here"
-msgstr ""
+msgstr "أدخل عنوان الرابط هنا"
 
 #: r2/templates/createsubreddit.html:270
 msgid "upload sponsorship image"
-msgstr ""
+msgstr "تحمل صورة الترويج"
 
 #: r2/templates/createsubreddit.html:302
 #: r2/templates/flairpane.html:64
@@ -2693,7 +2697,7 @@ msgstr "حفظ الخيارات"
 #: r2/templates/dart_ad.html:67
 #: r2/templates/housead.html:32
 msgid "reddit this ad"
-msgstr ""
+msgstr "ريدّيت هذا الإعلان"
 
 #: r2/templates/feedback.html:46
 #: r2/templates/sharelink.html:33
@@ -2702,7 +2706,7 @@ msgstr "أسمك"
 
 #: r2/templates/feedback.html:53
 msgid "(only used to reply)"
-msgstr ""
+msgstr "(يستعمل فقط للرد)"
 
 #: r2/templates/feedback.html:53
 #: r2/templates/login.html:78
@@ -2718,11 +2722,11 @@ msgstr "أرسل"
 
 #: r2/templates/feedbackblurb.html:67
 msgid "send reddit feedback"
-msgstr ""
+msgstr "أرسل رد ريدّيت"
 
 #: r2/templates/flairlist.html:26
 msgid "jump to user (or add):"
-msgstr ""
+msgstr "إذهب إلى مستخدم ( أو إضافة ) :"
 
 #: r2/templates/flairlist.html:31
 msgid "go"
@@ -2730,7 +2734,7 @@ msgstr "أذهب"
 
 #: r2/templates/flairlist.html:35
 msgid "back to full list"
-msgstr ""
+msgstr "الرجوع إلى قائمة الشاملة"
 
 #: r2/templates/flairlist.html:38
 msgid "back to the beginning"
@@ -2739,12 +2743,12 @@ msgstr "إرجع إلى المُقدمة"
 #: r2/templates/flairlist.html:46
 #: r2/templates/flairtemplatelist.html:35
 msgid "flair text"
-msgstr ""
+msgstr "نص الميزة"
 
 #: r2/templates/flairlist.html:47
 #: r2/templates/flairtemplatelist.html:36
 msgid "css class"
-msgstr ""
+msgstr "صنف CSS"
 
 #: r2/templates/flairlistrow.html:45
 #: r2/templates/flairselector.html:48
@@ -2768,51 +2772,51 @@ msgstr "التالي"
 
 #: r2/templates/flairpane.html:25
 msgid "flair settings"
-msgstr ""
+msgstr "إعدادت الميزة"
 
 #: r2/templates/flairpane.html:30
 msgid "flair options"
-msgstr ""
+msgstr "خيارات الميزة"
 
 #: r2/templates/flairpane.html:39
 msgid "enable user flair in this subreddit"
-msgstr ""
+msgstr "تمكين ميزة المستخدم هذا الريدّيت الثانوي"
 
 #: r2/templates/flairpane.html:50
 msgid "allow users to assign their own flair"
-msgstr ""
+msgstr "السماح للمستخدمين بتعين ميزهم"
 
 #: r2/templates/flairpane.html:53
 msgid "flair position"
-msgstr ""
+msgstr "موقع الميزة"
 
 #: r2/templates/flairpane.html:55
 msgid "left"
-msgstr ""
+msgstr "يسار"
 
 #: r2/templates/flairpane.html:56
 msgid "position flair to the left of the username"
-msgstr ""
+msgstr "وضع الميزة إلى يسار أسم المستخدم"
 
 #: r2/templates/flairpane.html:58
 msgid "right"
-msgstr ""
+msgstr "يمين"
 
 #: r2/templates/flairpane.html:59
 msgid "position flair to the right of the username"
-msgstr ""
+msgstr "وضع الميزة إلى يمين أسم المستخدم"
 
 #: r2/templates/flairprefs.html:30
 msgid "Show my flair on this reddit. It looks like:"
-msgstr ""
+msgstr "أظهر ميزتي على هذا الريدّيت. تظهر كهاذا :"
 
 #: r2/templates/flairselector.html:23
 msgid "select flair"
-msgstr ""
+msgstr "أختر الميزة"
 
 #: r2/templates/flairselector.html:52
 msgid "flair selection unavailable"
-msgstr ""
+msgstr "أختيار الميزة غير متوافر"
 
 #: r2/templates/flairtemplatelist.html:34
 msgid "user can edit?"
@@ -2820,27 +2824,27 @@ msgstr "المستخدم يمكنه التحرير؟"
 
 #: r2/templates/flairtemplatelist.html:49
 msgid "clear all flair templates"
-msgstr ""
+msgstr "مسح قوالب الميز"
 
 #: r2/templates/frametoolbar.html:66
 msgid "show url"
-msgstr ""
+msgstr "أظهر العنوان الإلكتروني"
 
 #: r2/templates/frametoolbar.html:69
 msgid "hide url"
-msgstr ""
+msgstr "إخفاء العنوان الإلكتروني"
 
 #: r2/templates/frametoolbar.html:73
 msgid "load a random link"
-msgstr ""
+msgstr "حمل رابط عشوائي"
 
 #: r2/templates/frametoolbar.html:80
 msgid "serendipity"
-msgstr ""
+msgstr "صدفة"
 
 #: r2/templates/frametoolbar.html:88
 msgid "visit your userpage"
-msgstr ""
+msgstr "زور صفحتك الخاصة"
 
 #: r2/templates/frametoolbar.html:92
 msgid "login / register"
