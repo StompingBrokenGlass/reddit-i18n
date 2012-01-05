@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: r2 0.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-09 15:06-0800\n"
-"PO-Revision-Date: 2012-01-05 22:43+0400\n"
+"PO-Revision-Date: 2012-01-06 00:41+0400\n"
 "Last-Translator: StompingBrokenGlass <StompingBrokenGlass@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -1544,7 +1544,7 @@ msgstr "نحتاج إلى التأكد من بريدك الإلكتروني لل
 
 #: r2/lib/strings.py:136
 msgid "you'll be able to submit more frequently once you verify your email address"
-msgstr ""
+msgstr "يمكنك النشر في فترات قصيرة بعدما تأكد بريدك الإلكتروني"
 
 #: r2/lib/strings.py:137
 msgid "your email address has been verfied"
@@ -1557,12 +1557,12 @@ msgstr "التأكيد فشل. الرجاء المحاولة مرة أخرى"
 #: r2/lib/strings.py:139
 #, python-format
 msgid "Our search machines are under too much load to handle your request right now. :( Sorry for the inconvenience. [Try again](%(link)s) in a little bit -- but please don't mash reload; that only makes the problem worse."
-msgstr ""
+msgstr "أجهزة البحث تحت ضغط عالياً لا تستطيع تلبية طلبك حالياً . نأسف على الإزعاج . [جرب مرة أخرى](%(link)s) بعد بعض لحظات - نرجو عدم تحديث الصفحة كثيراً ، فذالك يجعل المشكلة أسوء ."
 
 #: r2/lib/strings.py:140
 #, python-format
 msgid "I couldn't understand your query, so I simplified it and searched for \"%(clean_query)s\" instead."
-msgstr ""
+msgstr "لم أفهم طلبك ، بالمقابل بسط طلبك و بحثت عن \"%(clean_query)s\" ."
 
 #: r2/lib/strings.py:141
 msgid "I couldn't understand your search query. Please try again."
@@ -1575,16 +1575,16 @@ msgstr "لقد نشرت الكثير من الروابط مؤخراً . الرج
 #: r2/lib/strings.py:143
 #, python-format
 msgid "You've submitted several links recently that haven't been doing very well. You'll have to wait a while before you can submit again, or [write to the moderators of this reddit](%(link)s) and ask for an exemption."
-msgstr ""
+msgstr "لقد نشرت عدة روابط مؤخراً لم تكن بصورة جيدة. فعليك الإنظار لفترة قبل أن يمكنك أن تنشر مرة أخرى ، أو [ أكتب رسالة لمراقبين هذا الريدّيت](%(link)s) و أطلب أستثناء."
 
 #: r2/lib/strings.py:144
 #, python-format
 msgid "You haven't [verified your email address](%(link1)s); until you do, your submitting privileges will be severely limited. Please try again in an hour or verify your email address. If you'd like an exemption from this rule, please [write to the moderators of this reddit](%(link2)s)."
-msgstr ""
+msgstr "لم يتم [تأكد من بريدك الإلكتروني](%(link1)s) ؛ حتى يتم ذالك ، خواص النشر الخاصة بك ستكون محدودة جداً. الرجاء المحاولة مرة أخرى أو أكد بريدك الإلكتروني. إذا كنت تريد أستثناء من هذه القاعدة ، الرجاء [الكتابة إلى مراقبين هذا الريدّيت](%(link2)s) ."
 
 #: r2/lib/strings.py:145
 msgid "reddit is in \"emergency read-only mode\" right now. :( you won't be able to log in. we're sorry, and are working frantically to fix the problem."
-msgstr ""
+msgstr "ريدّيت في \" حالة قراءة فقط طارئة \" حالياً. :( لا يمكنك تسجيل دخول. نحن نأسف ، و نعمل بجد لحل المشكلة ."
 
 #: r2/lib/strings.py:146
 msgid "reddit is under heavy load right now. :( we're sorry, and are working frantically to fix the problem. in the mean time, here's a read-only cached version of the page you were trying to access."
@@ -1633,22 +1633,22 @@ msgstr "أنك على وشك تجهيز أشتراك ريدّيت الذهبي �
 #: r2/lib/strings.py:154
 #, python-format
 msgid "You're about to make a one-time purchase of %(amount)s of reddit gold for yourself (%(user)s)."
-msgstr ""
+msgstr "أنك على وشك شراء %(amount)s ذهب ريدّيت مرة واحد لنفسك (%(user)s) ."
 
 #: r2/lib/strings.py:155
 #, python-format
 msgid "You're about to purchase %(amount)s of reddit gold creddits. They work like gift certificates: each creddit you have will allow you to give one month of reddit gold to someone else."
-msgstr ""
+msgstr "أنك على وشك شراء %(amount)s من كريدّيت ريدّيت الذهبي . سيعتبر كمثل شهادات هدايا : كل كريدّيت سيسمع لك بإهداء شهر واحد من ريدّيت الذهبي لشخص آخر ."
 
 #: r2/lib/strings.py:156
 #, python-format
 msgid "You're about to give %(amount)s of reddit gold to %(recipient)s, who will be told that it came from you."
-msgstr ""
+msgstr "أنك على وشك أعطاء %(amount)s من ريدّيت الذهبي إلى %(recipient)s ، و سوف يخبر بإنه أتى منك ."
 
 #: r2/lib/strings.py:157
 #, python-format
 msgid "You're about to give %(amount)s of reddit gold to %(recipient)s. It will be an anonymous gift."
-msgstr ""
+msgstr "أنك على وشك أعطاء %(amount)s من ريدّيت الذهبي إلى %(recipient)s ، و سوف يخبر بإنه هدية من مجهول ."
 
 #: r2/lib/strings.py:158
 msgid "sorry, this has been archived and can no longer be voted on"
@@ -1866,7 +1866,7 @@ msgstr "أبني مجتمعك"
 
 #: r2/lib/pages/pages.py:261
 msgid "reddit gold creddits: now for sale!"
-msgstr ""
+msgstr "كريدّيت ريدّيت الذهبي : الآن للبيع!"
 
 #: r2/lib/pages/pages.py:279
 msgid "moderators"
@@ -1886,7 +1886,7 @@ msgstr "أسئلة متكررة"
 
 #: r2/lib/pages/pages.py:415
 msgid "reddiquette"
-msgstr ""
+msgstr "قواعدّيت"
 
 #: r2/lib/pages/pages.py:425
 msgid "chrome extension"
@@ -1945,7 +1945,7 @@ msgstr "أبحث عن ريدّيت"
 #: r2/lib/pages/pages.py:1090
 #, python-format
 msgid "your front page reddits (%s)"
-msgstr ""
+msgstr "ريدّيتات صفحتك الرئيسية (%s)"
 
 #: r2/lib/pages/pages.py:1151
 #: r2/templates/createsubreddit.html:189
@@ -1968,7 +1968,7 @@ msgstr "أقل من يوم"
 #: r2/lib/pages/pages.py:1217
 #, python-format
 msgid "buy %(user)s a month of reddit gold"
-msgstr ""
+msgstr "أشتر %(user)s شهراً من ذهب ريدّيت"
 
 #: r2/lib/pages/pages.py:1220
 msgid "renew your reddit gold"
@@ -1976,7 +1976,7 @@ msgstr "جدد ريددت الذهبي"
 
 #: r2/lib/pages/pages.py:1223
 msgid "treat yourself to reddit gold"
-msgstr ""
+msgstr "متع نفسك بريدّيت الذهبي"
 
 #: r2/lib/pages/pages.py:1258
 msgid "page not found"
@@ -2000,11 +2000,11 @@ msgstr "%s مرئي"
 #: r2/lib/pages/pages.py:1406
 #, python-format
 msgid "%(bonus)s bonus reddits"
-msgstr ""
+msgstr "%(bonus)s ريدّيتات أضافية"
 
 #: r2/lib/pages/pages.py:1594
 msgid "try entering those letters again"
-msgstr ""
+msgstr "حاول أدخال تلك الحوف مجدداً"
 
 #: r2/lib/pages/pages.py:1654
 msgid "previous search"
@@ -2013,7 +2013,7 @@ msgstr "البحث السابق"
 #: r2/lib/pages/pages.py:1687
 #, python-format
 msgid "%(site_title)s via %(domain)s"
-msgstr ""
+msgstr "%(site_title)s عن طريق %(domain)s"
 
 #: r2/lib/pages/pages.py:2285
 msgid "This feature is currently unavailable. Sorry"
@@ -2021,11 +2021,11 @@ msgstr "للإسف. هذه الوظيفة غير متوافرة."
 
 #: r2/lib/pages/pages.py:2457
 msgid "grant flair"
-msgstr ""
+msgstr "إعطاء ميزة"
 
 #: r2/lib/pages/pages.py:2459
 msgid "edit flair templates"
-msgstr ""
+msgstr "تحرير قالب الميزات"
 
 #: r2/lib/pages/pages.py:2658
 msgid "user"
@@ -2058,7 +2058,7 @@ msgstr "إضافة مراسل مُصرح"
 #: r2/lib/pages/pages.py:2716
 #, python-format
 msgid "approved submitters for %(reddit)s"
-msgstr ""
+msgstr "ناشرين موثوقين لـ %(reddit)s"
 
 #: r2/lib/pages/pages.py:2732
 msgid "add moderator"
@@ -2089,11 +2089,11 @@ msgstr "نشاط الحساب"
 #: r2/models/builder.py:103
 #, python-format
 msgid "moderator of /r/%(reddit)s, speaking officially"
-msgstr ""
+msgstr "مراقب /r/%(reddit)s ، يتحدث رسمياً"
 
 #: r2/models/builder.py:169
 msgid "label_template"
-msgstr ""
+msgstr "lable_template"
 
 #: r2/models/link.py:530
 #, python-format
@@ -2106,7 +2106,7 @@ msgstr "مُصرح من قبل مراقب"
 
 #: r2/models/link.py:805
 msgid "comment score below threshold"
-msgstr ""
+msgstr "نتيجة التعليق تحت الحد"
 
 #: r2/models/link.py:810
 msgid "blocked user"
@@ -2126,79 +2126,79 @@ msgstr "[رسالة من مستخدم محجوب]"
 
 #: r2/models/link.py:1151
 msgid "[unblock user to see this message]"
-msgstr ""
+msgstr "[أسمح لهذا المستخدم حتى ترى رسالته]"
 
 #: r2/models/mail_queue.py:308
 #, python-format
 msgid "[reddit] %(user)s has shared a link with you"
-msgstr ""
+msgstr "[ريدّيت] لقد شارك %(user)s رابط معك"
 
 #: r2/models/mail_queue.py:309
 #, python-format
 msgid "[feedback] feedback from '%(user)s'"
-msgstr ""
+msgstr "[رد] رد من '%(user)s'"
 
 #: r2/models/mail_queue.py:310
 #, python-format
 msgid "[ad_inq] feedback from '%(user)s'"
-msgstr ""
+msgstr "[أستعلام_أعلان] رد من '%(user)s'"
 
 #: r2/models/mail_queue.py:311
 msgid "[reddit] email removal notice"
-msgstr ""
+msgstr "[ريدّيت] إعلام عن مسح بريد إلكتروني"
 
 #: r2/models/mail_queue.py:312
 msgid "[reddit] email addition notice"
-msgstr ""
+msgstr "[ريدّيت] إعلام عن إضافة بريد إلكتروني"
 
 #: r2/models/mail_queue.py:313
 msgid "[reddit] reset your password"
-msgstr ""
+msgstr "[ريدّيت] إعادة كلمة السر"
 
 #: r2/models/mail_queue.py:314
 msgid "[reddit] verify your email address"
-msgstr ""
+msgstr "[ريدّيت] تأكيد بريدك الإلكتروني"
 
 #: r2/models/mail_queue.py:315
 msgid "[reddit] your bid has been accepted"
-msgstr ""
+msgstr "[ريدّيت] تم قبول عرضك"
 
 #: r2/models/mail_queue.py:316
 msgid "[reddit] your promotion has been accepted"
-msgstr ""
+msgstr "[ريدّيت] تم قبول ترويجك"
 
 #: r2/models/mail_queue.py:317
 msgid "[reddit] your promotion has been rejected"
-msgstr ""
+msgstr "[ريدّيت] تم رفض ترويجيك"
 
 #: r2/models/mail_queue.py:318
 msgid "[reddit] your promotion has been charged"
-msgstr ""
+msgstr "[ريدّيت] تم سحب مبلغ لترويجك"
 
 #: r2/models/mail_queue.py:319
 msgid "[reddit] your promotion is now live"
-msgstr ""
+msgstr "[ريدّيت] ترويجك يعمل"
 
 #: r2/models/mail_queue.py:320
 msgid "[reddit] your promotion has finished"
-msgstr ""
+msgstr "[ريدّيت] تم أنتهاء ترويجك"
 
 #: r2/models/mail_queue.py:321
 msgid "[reddit] your promotion has been created"
-msgstr ""
+msgstr "[ريدّيت] تم إنشاء ترويجك"
 
 #: r2/models/mail_queue.py:322
 #, python-format
 msgid "[i18n] translation offer from '%(user)s'"
-msgstr ""
+msgstr "[تدويل] ترجمة من '%(user)s'"
 
 #: r2/models/mail_queue.py:323
 msgid "[reddit] hey, nerd!"
-msgstr ""
+msgstr "[ريدّيت] يا مٌجتهد!"
 
 #: r2/models/mail_queue.py:324
 msgid "[reddit] reddit gold activation link"
-msgstr ""
+msgstr "[ريدّيت] رابط تفيل ريدّيت الذهبي"
 
 #: r2/models/subreddit.py:945
 msgid "on reddit.com"
@@ -2511,15 +2511,15 @@ msgstr ""
 
 #: r2/templates/commentvisitsbox.html:25
 msgid "You've been here before. To highlight comments that were posted since one of your visits, select it below:"
-msgstr ""
+msgstr "لقد كنت هنا سابقاً . لتظليل التعليقات المتواجدة خلال أحدى زياراتك، أخترها من التالي :"
 
 #: r2/templates/commentvisitsbox.html:48
 msgid "no highlighting"
-msgstr ""
+msgstr "لا تظليل"
 
 #: r2/templates/createsubreddit.html:47
 msgid "that subreddit doesn't exist, but you can create it here."
-msgstr ""
+msgstr "هذا الريدّيت الثانوي غير موجود ، لكن يمكنك أن تنشأئه هنا ."
 
 #: r2/templates/createsubreddit.html:55
 msgid "no spaces, e.g., slashdot"
@@ -2541,7 +2541,7 @@ msgstr "عنوان"
 
 #: r2/templates/createsubreddit.html:81
 msgid "500 characters max.  Make them count."
-msgstr ""
+msgstr "500 حرف ، رقم أو رمز. أحسبهم."
 
 #: r2/templates/createsubreddit.html:81
 msgid "description"
@@ -2561,11 +2561,11 @@ msgstr "عام"
 
 #: r2/templates/createsubreddit.html:105
 msgid "anyone can view and submit"
-msgstr ""
+msgstr "الكل يمكنه القراءة و النشر"
 
 #: r2/templates/createsubreddit.html:107
 msgid "restricted"
-msgstr ""
+msgstr "محدد"
 
 #: r2/templates/createsubreddit.html:108
 msgid "anyone can view, but only some are approved to submit links"
