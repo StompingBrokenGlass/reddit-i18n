@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: r2 0.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-09 15:06-0800\n"
-"PO-Revision-Date: 2011-11-18 21:44+0400\n"
+"PO-Revision-Date: 2012-01-05 17:52+0400\n"
 "Last-Translator: StompingBrokenGlass <StompingBrokenGlass@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -1563,11 +1563,11 @@ msgstr ""
 
 #: r2/lib/strings.py:141
 msgid "I couldn't understand your search query. Please try again."
-msgstr ""
+msgstr "لم أفهم مُوضوع بحثك ، الرجاء المحاولة مرة آخرى ."
 
 #: r2/lib/strings.py:142
 msgid "You've submitted too many links recently. Please try again in an hour."
-msgstr ""
+msgstr "لقد نشرت الكثير من الروابط مؤخراً . الرجاء المحاولة في خلال ساعة ."
 
 #: r2/lib/strings.py:143
 #, python-format
@@ -1585,31 +1585,31 @@ msgstr ""
 
 #: r2/lib/strings.py:146
 msgid "reddit is under heavy load right now. :( we're sorry, and are working frantically to fix the problem. in the mean time, here's a read-only cached version of the page you were trying to access."
-msgstr ""
+msgstr "ريدّيت حالياً تحت ضغط عالي. :( نحن نأسف ، و نعمل بجد لحل المشكلة ، هذة نسخة للقراءة فقط من صفحة التي تحاول مشاهدتها ."
 
 #: r2/lib/strings.py:147
 #, python-format
 msgid "Please grab a drink and join us in [the lounge](%(link)s)."
-msgstr ""
+msgstr "الرجاء أمسك مشروبك و أنظم معنا في [الإستراحة] (%(link)s) ."
 
 #: r2/lib/strings.py:148
 msgid "You sent us a postcard! (Or something similar.) When we run out of room on our refrigerator, we might one day auction off the stuff that people sent in. Is it okay if we include your thing?"
-msgstr ""
+msgstr "لقد أرسلت بطاقة بريدة لنا! ( أو شي من هذا القبيل. ) عندما يمتلء سطح البراد ، يمكن نعرض الأشياء التي أٌرسلت لمزاد. فهل تسمح إضافة الشيء المرسل للمزاد ؟"
 
 #: r2/lib/strings.py:149
 #, python-format
 msgid "Sorry, the maximum number of comments is %(max)d. (However, if you subscribe to reddit gold, it goes up to %(goldmax)d.)"
-msgstr ""
+msgstr "للأسف، الحد الأقصى للتعليقات هو %(max)d. (حيثما ، إذا أشتركت في ريدّيت الذهبي ، يزيد إلى %(goldmax)d.)"
 
 #: r2/lib/strings.py:150
 #, python-format
 msgid "Sorry, the maximum number of comments is %d."
-msgstr ""
+msgstr "للإسف، الحد الأقصى للتعليقات هو %d ."
 
 #: r2/lib/strings.py:151
 #, python-format
 msgid "%(sender)s just sent you %(amount)s of reddit gold! Wasn't that nice?"
-msgstr ""
+msgstr "لقد أرسل لك %(sender)s %(amount)s من الذهبّ أليس ذالك رائعاً ؟"
 
 #: r2/lib/strings.py:152
 msgid ""
@@ -1618,11 +1618,14 @@ msgid ""
 "----\n"
 "\n"
 msgstr ""
+"هذه الملاحظة مرفقة :\n"
+"---\n"
+"\n"
 
 #: r2/lib/strings.py:153
 #, python-format
 msgid "You're about to set up an ongoing, autorenewing subscription to reddit gold for yourself (%(user)s)."
-msgstr ""
+msgstr "أنك على وشك تجهيز أشتراك ريدّيت الذهبي متجدد أوتماتيكي، لحسابك (%(user)s) ."
 
 #: r2/lib/strings.py:154
 #, python-format
@@ -1646,16 +1649,16 @@ msgstr ""
 
 #: r2/lib/strings.py:158
 msgid "sorry, this has been archived and can no longer be voted on"
-msgstr ""
+msgstr "للإسف. هذا تم أرشيفه و لا يمكنك أن تصوت عليه."
 
 #: r2/lib/strings.py:159
 msgid "This page shows a history of recent activity on your account. If you notice unusual activity, you should change your password immediately. Location information is guessed from your computer's IP address and may be wildly wrong, especially for visits from mobile devices."
-msgstr ""
+msgstr "هذه الصفحة تظهر سجل الفعاليات الحديثة على حسابك. إذا لاحظت فعاليات غريبة، يفترض عليك تغير كلمة السر حالاً. بيانات المنطقة هي تخمين من عنوان جهازك الإلكتروني فيوجد أحتمال بعدم صحتها ، خصوصاً عند زيارتك من أجهزة محمولة ."
 
 #: r2/lib/strings.py:160
 #, python-format
 msgid "You are currently accessing reddit from this IP address: %(address)s."
-msgstr ""
+msgstr "إنك تستخدم ريدّيت من هذا العنوان الإلكتروني: %(address)s ."
 
 #: r2/lib/strings.py:227
 #: r2/lib/strings.py:232
@@ -1892,24 +1895,24 @@ msgstr "أدوات"
 
 #: r2/lib/pages/pages.py:436
 msgid "redditgifts"
-msgstr ""
+msgstr "هدايا ريدّيت"
 
 #: r2/lib/pages/pages.py:437
 msgid "reddit.tv"
-msgstr ""
+msgstr "reddit.tv"
 
 #: r2/lib/pages/pages.py:438
 msgid "radio reddit"
-msgstr ""
+msgstr "مذياع ريدّيت"
 
 #: r2/lib/pages/pages.py:440
 msgid "<3"
-msgstr ""
+msgstr "<3"
 
 #: r2/lib/pages/pages.py:622
 #, python-format
 msgid "%(site)s mail"
-msgstr ""
+msgstr "بريد %(site)s"
 
 #: r2/lib/pages/pages.py:684
 msgid "login or register"
@@ -1934,7 +1937,7 @@ msgstr "عن %(site)s"
 
 #: r2/lib/pages/pages.py:1059
 msgid "search reddits"
-msgstr ""
+msgstr "أبحث عن ريدّيت"
 
 #: r2/lib/pages/pages.py:1090
 #, python-format
@@ -2011,7 +2014,7 @@ msgstr ""
 
 #: r2/lib/pages/pages.py:2285
 msgid "This feature is currently unavailable. Sorry"
-msgstr ""
+msgstr "للإسف. هذه الوظيفة غير متوافرة."
 
 #: r2/lib/pages/pages.py:2457
 msgid "grant flair"
@@ -2069,7 +2072,7 @@ msgstr "منع مستخدم"
 
 #: r2/lib/pages/pages.py:2776
 msgid "share traffic"
-msgstr ""
+msgstr "مُشراكة الحركة"
 
 #: r2/lib/pages/pages.py:2780
 msgid "current viewers"
@@ -2225,16 +2228,16 @@ msgstr ""
 #: r2/templates/base.htmllite:88
 #, python-format
 msgid "links from %(site)s"
-msgstr ""
+msgstr "روابط من %(site)s"
 
 #: r2/templates/bookmarklets.html:30
 #, python-format
 msgid "install the %(site)s bookmarklet set"
-msgstr ""
+msgstr "تركيب مجوعة مفضلات %(site)s"
 
 #: r2/templates/bookmarklets.html:32
 msgid "once added to your bookmark bar, you can click these buttons from any site to get quick access to reddit functionality."
-msgstr ""
+msgstr "عند الإضافة لشريط المفضلة ، بمكنك الضغط على هذه الأزرار من أي موقع للحصول على دخول سريع إلى وظائف ريدّيت "
 
 #: r2/templates/bookmarklets.html:33
 msgid "in Firefox"
@@ -2248,7 +2251,7 @@ msgstr "انقر واسحب"
 #: r2/templates/bookmarklets.html:41
 #: r2/templates/bookmarklets.html:70
 msgid "to your bookmark bar."
-msgstr ""
+msgstr "إلى شريط المفضلة "
 
 #: r2/templates/bookmarklets.html:49
 msgid "in Internet Explorer"
@@ -2269,16 +2272,16 @@ msgstr "في سفري"
 #: r2/templates/bookmarklets.html:76
 #, python-format
 msgid "voila! now you have all the functionality of %(site)s in your toolbar."
-msgstr ""
+msgstr "وهكذا، عندك وظائف %(site)s على شريط الأدوات"
 
 #: r2/templates/buttondemopanel.html:29
 #, python-format
 msgid "put %(site)s buttons on your site"
-msgstr ""
+msgstr "ضع أزرار %(site)s على موقعك"
 
 #: r2/templates/buttondemopanel.html:30
 msgid "the reddit button is the smart way to get your content submitted to      and discussed on reddit.  pick the button you like from below, and then      copy/paste the code into your HTML editor."
-msgstr ""
+msgstr "زر ريدّيت هو الوسيلة الأذكى لنشر و مناقشة مواضيعك على ريدّيت. أختر الزر الذي يعجبك ، و ثم أنسخ / ألصق الشفرة في ممحرر الـ HTML ."
 
 #: r2/templates/buttondemopanel.html:34
 msgid "commonly used buttons"
@@ -2306,7 +2309,7 @@ msgstr ""
 
 #: r2/templates/buttondemopanel.html:58
 msgid "specify a url to use instead of the current url"
-msgstr ""
+msgstr "أختر عنوان جديد لتبدبل العنوان الحالي"
 
 #: r2/templates/buttondemopanel.html:60
 msgid "opens links in a new window"
@@ -2321,47 +2324,47 @@ msgstr "مثال:"
 #: r2/templates/buttondemopanel.html:68
 #: r2/templates/upgradebuttons.html:34
 msgid "simple interactive button"
-msgstr ""
+msgstr "زر تواصل بسيط"
 
 #: r2/templates/buttondemopanel.html:69
 #: r2/templates/upgradebuttons.html:35
 msgid "put this code on your page:"
-msgstr ""
+msgstr "ضع هذة الشفرة على صفحتك:"
 
 #: r2/templates/buttondemopanel.html:73
 #: r2/templates/upgradebuttons.html:39
 msgid "and you'll get something like this:"
-msgstr ""
+msgstr "وسوف تحصل على شيء كهذا:"
 
 #: r2/templates/buttondemopanel.html:78
 #: r2/templates/upgradebuttons.html:44
 msgid "more interactive buttons"
-msgstr ""
+msgstr "أزرار تواصل آخرى"
 
 #: r2/templates/buttondemopanel.html:85
 #: r2/templates/upgradebuttons.html:51
 msgid "interactive button advanced settings"
-msgstr ""
+msgstr "خيارات للزر التواصل متقدم"
 
 #: r2/templates/buttondemopanel.html:89
 #: r2/templates/upgradebuttons.html:55
 msgid "specify a url"
-msgstr ""
+msgstr "أختر عنوان إلكتروني"
 
 #: r2/templates/buttondemopanel.html:90
 #: r2/templates/upgradebuttons.html:56
 msgid "useful in places like blogs, where you want to link to the post's permalink"
-msgstr ""
+msgstr "مفيد في أماكن مثل المدونات، حيث أنكَ تحتاج نشر عنوان ثابت"
 
 #: r2/templates/buttondemopanel.html:94
 #: r2/templates/upgradebuttons.html:60
 msgid "specify a community to target"
-msgstr ""
+msgstr "أختر مجتمع "
 
 #: r2/templates/buttondemopanel.html:98
 #: r2/templates/upgradebuttons.html:64
 msgid "specify a title"
-msgstr ""
+msgstr "أختر عنوان"
 
 #: r2/templates/buttondemopanel.html:102
 #: r2/templates/prefoptions.html:109
@@ -2372,17 +2375,17 @@ msgstr "فتح الروابط في نافذة جديدة"
 #: r2/templates/buttondemopanel.html:106
 #: r2/templates/upgradebuttons.html:72
 msgid "specify the color"
-msgstr ""
+msgstr "أختر لون"
 
 #: r2/templates/buttondemopanel.html:110
 #: r2/templates/upgradebuttons.html:76
 msgid "specify a border color"
-msgstr ""
+msgstr "أختر لون المحيط"
 
 #: r2/templates/buttondemopanel.html:115
 #: r2/templates/upgradebuttons.html:81
 msgid "to make this button:"
-msgstr ""
+msgstr "لجعل هذا الزر:"
 
 #: r2/templates/buttondemopanel.html:117
 #: r2/templates/upgradebuttons.html:83
@@ -2391,43 +2394,43 @@ msgstr "أستعمل هذه الشفرة:"
 
 #: r2/templates/buttondemopanel.html:127
 msgid "more badges and buttons"
-msgstr ""
+msgstr "المزيد من الأوسمة و الأزرار"
 
 #: r2/templates/buttondemopanel.html:158
 #: r2/templates/upgradebuttons.html:108
 msgid "view code"
-msgstr ""
+msgstr "إظهار الشفرة"
 
 #: r2/templates/buttondemopanel.html:159
 #: r2/templates/upgradebuttons.html:109
 msgid "hide code"
-msgstr ""
+msgstr "إخفاء الشفرة"
 
 #: r2/templates/buttontypes.html:189
 msgid "quite controversial"
-msgstr ""
+msgstr "مثير جداً للجدل"
 
 #: r2/templates/buttontypes.html:193
 msgid "uncontroversial"
-msgstr ""
+msgstr "غير مثير للجدل"
 
 #: r2/templates/buttontypes.html:195
 msgid "quite uncontroversial"
-msgstr ""
+msgstr "غير مثير للجدل لحد بعيد"
 
 #: r2/templates/buttontypes.html:212
 msgid "Vote on this article"
-msgstr ""
+msgstr "صوت على هذا الموضوع"
 
 #: r2/templates/buttontypes.html:217
 #, python-format
 msgid "Discuss at the %(name)s reddit"
-msgstr ""
+msgstr "ناقش عند %(name)s ريدّيت"
 
 #: r2/templates/buttontypes.html:219
 #, python-format
 msgid "Submit to the %(name)s reddit"
-msgstr ""
+msgstr "أنشر عند %(name)s ريدّيت"
 
 #: r2/templates/captcha.html:49
 msgid "(sorry)"
@@ -2461,7 +2464,7 @@ msgstr "+"
 
 #: r2/templates/comment.html:86
 msgid "&ndash;"
-msgstr ""
+msgstr "&ndash;"
 
 #: r2/templates/comment.html:92
 msgid "deleted comment from"
