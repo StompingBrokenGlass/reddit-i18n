@@ -4392,7 +4392,7 @@ msgstr ""
 
 #: r2/templates/shirtpane.html:5
 msgid "sorry.  That title is too long to fit on a t-shirt."
-msgstr "نأسف. العنوان طويل جداً ليسع الفانيلةز"
+msgstr "نأسف. العنوان طويل جداً ليسع الفانيلة."
 
 #: r2/templates/shirtpane.html:37
 msgid "Your reddit headline shirt"
