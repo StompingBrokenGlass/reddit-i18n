@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: r2 0.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2011-11-09 15:06-0800\n"
-"PO-Revision-Date: 2012-01-06 01:32+0400\n"
+"PO-Revision-Date: 2012-01-06 11:05+0400\n"
 "Last-Translator: StompingBrokenGlass <StompingBrokenGlass@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -2857,20 +2857,20 @@ msgstr "بريد جديد"
 #: r2/templates/frametoolbar.html:113
 #: r2/templates/frametoolbar.html:114
 msgid "visit this link without the toolbar"
-msgstr ""
+msgstr "زور الرابط بدون شريط الأدوات"
 
 #: r2/templates/frametoolbar.html:121
 msgid "click to visit the main page for this submission"
-msgstr ""
+msgstr "أضغط لزيارة الصفحة الرئيسية لهذا المنشور"
 
 #: r2/templates/frametoolbar.html:133
 msgid "click to submit this link to reddit"
-msgstr ""
+msgstr "أضغط لنشر هذا الرابط في ريدّيت"
 
 #: r2/templates/frametoolbar.html:171
 #, python-format
 msgid "vote %(direction)s"
-msgstr ""
+msgstr "تصويت %(direction)s"
 
 #: r2/templates/frametoolbar.html:186
 msgid "like"
@@ -2908,31 +2908,31 @@ msgstr "أخفاء"
 
 #: r2/templates/frametoolbar.html:217
 msgid "toggle the comments panel"
-msgstr ""
+msgstr "تفعيل لوحة التعليقات"
 
 #: r2/templates/gold.html:88
 msgid "Buy for yourself, as an ongoing subscription"
-msgstr ""
+msgstr "أشتر لنفسك ، كأشتراك جاري"
 
 #: r2/templates/gold.html:90
 msgid "Buy for yourself, as a one-time purchase"
-msgstr ""
+msgstr "أشتر لنفسك ، كشراء مرة واحدة"
 
 #: r2/templates/gold.html:92
 msgid "Give reddit gold to someone else"
-msgstr ""
+msgstr "أعطس ريدّيت الذهبي إلى شخص أخر"
 
 #: r2/templates/gold.html:94
 msgid "Buy reddit gold \"creddits\""
-msgstr ""
+msgstr "أشتر \" كريدّيت \" ريدّيت الذهبي"
 
 #: r2/templates/gold.html:102
 msgid "$3.99 / month"
-msgstr ""
+msgstr "3.99 دولار لكل شهر"
 
 #: r2/templates/gold.html:103
 msgid "$29.99 / year (which works out to just $2.50 / month!)"
-msgstr ""
+msgstr "29.99 دولار لكل سنة ( كأنه 2.50 دولار لكل شهر)"
 
 #: r2/templates/gold.html:105
 #: r2/templates/subreddit.html:64
@@ -2950,20 +2950,20 @@ msgstr "شراء"
 
 #: r2/templates/gold.html:119
 msgid "How much gold do you wish to bestow?"
-msgstr ""
+msgstr "ماهي كمية الذهب الذي تتمنى أن تهديها ؟"
 
 #: r2/templates/gold.html:130
 #, python-format
 msgid "Note: If you want to give more than %(number)d, you'll need to buy more creddits."
-msgstr ""
+msgstr "ملاحظة: إذا تحتاج أكثر من %(number)d ،سوف تحتاج لشراء كريدّيت أكثر ."
 
 #: r2/templates/gold.html:137
 msgid "To whom are you giving said gold?"
-msgstr ""
+msgstr "إلى من سوف تُهدي الذهب المطلوب ؟"
 
 #: r2/templates/gold.html:148
 msgid "Do you want them to know it came from you?"
-msgstr ""
+msgstr "هل تريد أن تخبرهم أن مصدر الذهب أنت ؟"
 
 #: r2/templates/gold.html:150
 msgid "yes, include my username"
@@ -2984,11 +2984,11 @@ msgstr "أعطاء"
 
 #: r2/templates/gold.html:172
 msgid "How many creddits would you like to buy? (each will allow you to give one month of reddit gold)"
-msgstr ""
+msgstr "كم كريدّيت ترغب في شرائه؟ (كل كريدّيت ينمحك أهداء شهر واحد من ريدّيت الذهبي)"
 
 #: r2/templates/goldpayment.html:37
 msgid "The following gift note will be attached:"
-msgstr ""
+msgstr "الملاحظة التالية شوف يتم أرفاقها:"
 
 #: r2/templates/goldpayment.html:54
 msgid "Please select a payment method."
@@ -2996,15 +2996,15 @@ msgstr "الرجاء أختيار طريقة الدفع."
 
 #: r2/templates/goldpayment.html:77
 msgid "Google Checkout"
-msgstr ""
+msgstr "جوجل للدفع (Google Checkout)"
 
 #: r2/templates/goldpayment.html:89
 msgid "PayPal"
-msgstr ""
+msgstr "باي بال (PayPal)"
 
 #: r2/templates/goldpayment.html:93
 msgid "Note: Google Checkout does not support ongoing subscriptions at this time."
-msgstr ""
+msgstr "ملاحظة جوجل للدفع لا يدعم أشتراكات جارية في هذا الوقت."
 
 #: r2/templates/link.html:71
 msgid "Adult content: Not Safe For Work"
@@ -3016,32 +3016,32 @@ msgstr "غير آمن للعمل"
 
 #: r2/templates/link.html:90
 msgid "(no need to click for this info; just hover over the checkmark next time)"
-msgstr ""
+msgstr "(لا يحتاج للضغط لروية هذه المعلومة ؛ فقط حوم فوق العلامة مرة أخرى)"
 
 #: r2/templates/link.html:205
 #, python-format
 msgid "%(score)s submitted %(when)s ago"
-msgstr ""
+msgstr "%(score)s نشر منذ %(when)s"
 
 #: r2/templates/link.html:207
 #, python-format
 msgid "by %(author)s to %(reddit)s"
-msgstr ""
+msgstr "من %(author)s في %(reddit)s"
 
 #: r2/templates/link.html:209
 #, python-format
 msgid "by %(author)s"
-msgstr ""
+msgstr "من %(author)s"
 
 #: r2/templates/link.html:211
 #, python-format
 msgid "submitted %(when)s ago by %(author)s to %(reddit)s"
-msgstr ""
+msgstr "نشره %(author)s منذ %(when)s في %(reddit)s"
 
 #: r2/templates/link.html:213
 #, python-format
 msgid "submitted %(when)s ago by %(author)s"
-msgstr ""
+msgstr "نشره %(author)s منذ %(when)s"
 
 #: r2/templates/linkinfobar.html:34
 msgid "this post was submitted on"
@@ -3049,7 +3049,7 @@ msgstr "هذا المنشور تم أرساله عند"
 
 #: r2/templates/linkinfobar.html:43
 msgid "like it"
-msgstr ""
+msgstr "أعجبني"
 
 #: r2/templates/linkinfobar.html:48
 msgid "up vote"
@@ -3066,11 +3066,11 @@ msgstr[1] ""
 #: r2/templates/linkinfopage.htmllite:28
 #, python-format
 msgid "comments from %(site)s"
-msgstr ""
+msgstr "تعليقات من %(site)s"
 
 #: r2/templates/linkontrial.html:44
 msgid "reddit's spam filter needs your help!"
-msgstr ""
+msgstr "مرشح الريدّيت المزعجين يحتاج مساعدتك!"
 
 #: r2/templates/linkontrial.html:51
 msgid "how would you classify this link?"
@@ -3182,37 +3182,37 @@ msgstr "-"
 #: r2/templates/message.xml:38
 #, python-format
 msgid "from %(author)s sent %(when)s ago"
-msgstr ""
+msgstr "من %(author)s أرسله منذ %(when)s"
 
 #: r2/templates/message.html:58
 #: r2/templates/message.xml:40
 #, python-format
 msgid "to %(dest)s sent %(when)s ago"
-msgstr ""
+msgstr "إلى %(dest)s  أرسل منذ %(when)s"
 
 #: r2/templates/message.html:60
 #: r2/templates/message.xml:42
 #, python-format
 msgid "to %(dest)s from %(author)s sent %(when)s ago"
-msgstr ""
+msgstr "إلى %(dest)s أرسله %(author)s منذ %(when)s"
 
 #: r2/templates/message.html:65
 #: r2/templates/message.xml:47
 #, python-format
 msgid "%(author)s via %(subreddit)s"
-msgstr ""
+msgstr "%(author)s عن طريق %(subreddit)s"
 
 #: r2/templates/message.html:103
 msgid "expand all"
-msgstr ""
+msgstr "بسط الكل"
 
 #: r2/templates/message.html:106
 msgid "collapse all"
-msgstr ""
+msgstr "طوي الكل"
 
 #: r2/templates/message.html:121
 msgid "show parent"
-msgstr ""
+msgstr "أظهر الأصل"
 
 #: r2/templates/messagecompose.html:31
 msgid "send a message"
@@ -3220,7 +3220,7 @@ msgstr "أرسل رسالة"
 
 #: r2/templates/messagecompose.html:51
 msgid "(username, or # followed by the reddit name)"
-msgstr ""
+msgstr "(أسم المستخدم ، أو # متبوع بأسم الريدّيت)"
 
 #: r2/templates/messagecompose.html:51
 msgid "to"
@@ -3264,7 +3264,7 @@ msgstr "ردديت"
 #: r2/templates/newlink.html:64
 #: r2/templates/promotelinkform.html:269
 msgid "url"
-msgstr ""
+msgstr "عنوان إلكتروني"
 
 #: r2/templates/newlink.html:74
 msgid "suggest title"
@@ -3290,17 +3290,17 @@ msgstr "أختر ردّئِت فرعية"
 #: r2/templates/oauth2authorization.html:28
 #, python-format
 msgid "#[%(app_name)s](%(app_about_url)s) requests to connect with your reddit account."
-msgstr ""
+msgstr "#[%(app_name)s](%(app_about_url)s) يطلب بربط حساب ريدّيت الخاص بك معه ."
 
 #: r2/templates/oauth2authorization.html:31
 #, python-format
 msgid "Allow %(app_name)s to:"
-msgstr ""
+msgstr "أسمح لـ %(app_name)s بـ :"
 
 #: r2/templates/oauth2authorization.html:35
 #, python-format
 msgid "%(app_name)s will not be able to access your reddit password."
-msgstr ""
+msgstr "لن يتمكن %(app_name)s على الحصول على كلمة السر الخاصة بك المستعملة في ريدّيت ."
 
 #: r2/templates/oauth2authorization.html:43
 msgid "Allow"
@@ -3313,16 +3313,16 @@ msgstr "أرفض"
 #: r2/templates/optout.html:26
 #, python-format
 msgid "The address '%(email)s' will no longer receive email from us."
-msgstr ""
+msgstr "البريد '%(email)s' لن يستلم بريد جديد من طرفنا ."
 
 #: r2/templates/optout.html:29
 msgid "A confirmation email has been queued up and should be reaching you shortly.  It will be the last you hear of us."
-msgstr ""
+msgstr "رسالة تأكيد وضيعت على قائمة الإنتظار و سوف تصلك قريباً . أنها أخر ما ستسمع منا . "
 
 #: r2/templates/optout.html:33
 #, python-format
 msgid "Would you like the address %(email)s to no longer receive email from us?"
-msgstr ""
+msgstr "هل ترغب بعدم أستقبال رسائل منا على البريد %(email)s ؟"
 
 #: r2/templates/optout.html:36
 #: r2/templates/optout.html:52
@@ -3339,12 +3339,12 @@ msgstr "لا"
 #: r2/templates/optout.html:45
 #, python-format
 msgid "'%(email)s' has been removed from our block list."
-msgstr ""
+msgstr "لقد تم حذف %(email)s من قائمة الحجب ."
 
 #: r2/templates/optout.html:49
 #, python-format
 msgid "Allow '%(email)s' to receive email from us?"
-msgstr ""
+msgstr "السماح بإستقبال رسائل منا على '%(email)s' ؟"
 
 #: r2/templates/over18.html:25
 msgid "you must be at least eighteen to view this reddit"
@@ -3372,16 +3372,16 @@ msgstr "أرسل بريد ألكتروني"
 
 #: r2/templates/paymentform.html:34
 msgid "set up payment for this link"
-msgstr ""
+msgstr "تنصيب دفع لهذا الرابط"
 
 #: r2/templates/paymentform.html:45
 #, python-format
 msgid "Your current bid is $%(bid)s"
-msgstr ""
+msgstr "عرضك الحالي هو %(bid)s دولار"
 
 #: r2/templates/paymentform.html:48
 msgid "(total for the duration provided)"
-msgstr ""
+msgstr "(تم أرفاق المدى الكلي)"
 
 #: r2/templates/paymentform.html:53
 msgid "Please pick your credit card:"
@@ -3402,7 +3402,7 @@ msgstr "الرجاء أنشاء لائِحة دفع جديدة"
 
 #: r2/templates/paymentform.html:70
 msgid "NOTE: your card will not be charged until the link has been queued for promotion."
-msgstr ""
+msgstr "ملاحظة : لن يتم السداد إلا عندما وضع الرابط في قائمة الإنتظار للترويج ."
 
 #: r2/templates/paymentform.html:113
 msgid "first name"
@@ -3508,7 +3508,7 @@ msgstr "لدواعي أمنية"
 
 #: r2/templates/prefdelete.html:52
 msgid "account credentials"
-msgstr ""
+msgstr "معلومات الحساب"
 
 #: r2/templates/prefdelete.html:63
 msgid "confirmation"
