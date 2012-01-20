@@ -355,7 +355,7 @@ msgstr "تم الإفراظ بالبيع من %(start)s إلى %(end)s في ذا
 msgid ""
 "reddit advertising is blacked out from %(start)s to %(end)s. please select "
 "different dates."
-msgstr ""
+msgstr "الأعلان على ريدّيت محجوب من %(start)s إلى %(end)s . الرجاء أختيار تواريخ أخرى ."
 
 #: r2/controllers/errors.py:75
 msgid "please provide a date of the form mm/dd/yyyy"
@@ -436,7 +436,7 @@ msgstr "الرجاء تأكيد الإستمارة"
 
 #: r2/controllers/errors.py:93
 msgid "cannot perform this action via the API"
-msgstr ""
+msgstr "لا يمكن القيام بهذا عن طريق الـ أي بي آي"
 
 #: r2/controllers/front.py:121
 msgid "self service help"
@@ -2250,7 +2250,7 @@ msgstr "[ريدّيت] رابط تفيل ريدّيت الذهبي"
 
 #: r2/models/modaction.py:31
 msgid "ban user"
-msgstr ""
+msgstr "إقصاء المستخدم"
 
 #: r2/models/modaction.py:32
 msgid "unban user"
@@ -2258,23 +2258,23 @@ msgstr ""
 
 #: r2/models/modaction.py:33
 msgid "remove post"
-msgstr ""
+msgstr "حذف منشور"
 
 #: r2/models/modaction.py:34
 msgid "approve post"
-msgstr ""
+msgstr "تصريح المنشور"
 
 #: r2/models/modaction.py:35
 msgid "remove comment"
-msgstr ""
+msgstr "حذف تعليق"
 
 #: r2/models/modaction.py:36
 msgid "approve comment"
-msgstr ""
+msgstr "تصريح التعليق"
 
 #: r2/models/modaction.py:38
 msgid "remove moderator"
-msgstr ""
+msgstr "خذف مراقب"
 
 #: r2/models/modaction.py:39
 msgid "add contributor"
@@ -2286,7 +2286,7 @@ msgstr ""
 
 #: r2/models/modaction.py:41
 msgid "edit settings"
-msgstr ""
+msgstr "تحرير الإعدادت"
 
 #: r2/models/modaction.py:44 r2/templates/subredditinfobar.html:90
 #: r2/templates/subscriptionbox.html:57
@@ -2299,27 +2299,27 @@ msgstr ""
 
 #: r2/models/modaction.py:46
 msgid "removed post"
-msgstr ""
+msgstr "حذف منشور"
 
 #: r2/models/modaction.py:47
 msgid "approved post"
-msgstr ""
+msgstr "منشور مصرح"
 
 #: r2/models/modaction.py:48
 msgid "removed comment"
-msgstr ""
+msgstr "تعليق محذوف"
 
 #: r2/models/modaction.py:49
 msgid "approved comment"
-msgstr ""
+msgstr "تعليق مصرح"
 
 #: r2/models/modaction.py:50
 msgid "added moderator"
-msgstr ""
+msgstr "مراقب مضاف"
 
 #: r2/models/modaction.py:51
 msgid "removed moderator"
-msgstr ""
+msgstr "مراقب محذوف"
 
 #: r2/models/modaction.py:52
 msgid "added approved contributor"
@@ -2331,7 +2331,7 @@ msgstr ""
 
 #: r2/models/modaction.py:54
 msgid "edited settings"
-msgstr ""
+msgstr "أعدادات مُحررة"
 
 #: r2/models/modaction.py:55
 msgid "edited user flair"
@@ -2339,32 +2339,32 @@ msgstr ""
 
 #: r2/models/modaction.py:58
 msgid "removed self"
-msgstr ""
+msgstr "حذف بنفسه"
 
 #: r2/models/modaction.py:60 r2/templates/createsubreddit.html:69
 #: r2/templates/newlink.html:61 r2/templates/promotelinkform.html:258
 msgid "title"
-msgstr ""
+msgstr "عنوان"
 
 #: r2/models/modaction.py:61 r2/templates/createsubreddit.html:81
 msgid "description"
-msgstr ""
+msgstr "الموصوع"
 
 #: r2/models/modaction.py:62 r2/templates/createsubreddit.html:90
 msgid "language"
-msgstr ""
+msgstr "اللغة"
 
 #: r2/models/modaction.py:63 r2/templates/createsubreddit.html:101
 msgid "type"
-msgstr ""
+msgstr "النوع"
 
 #: r2/models/modaction.py:64
 msgid "link type"
-msgstr ""
+msgstr "نوع الرابط"
 
 #: r2/models/modaction.py:65
 msgid "toggle viewers must be over 18"
-msgstr ""
+msgstr "تفعيل القاراء يجب أن يكونو فوق 18"
 
 #: r2/models/modaction.py:66
 msgid "toggle allow in default set"
@@ -2376,7 +2376,7 @@ msgstr ""
 
 #: r2/models/modaction.py:68 r2/templates/createsubreddit.html:170
 msgid "domain"
-msgstr ""
+msgstr "نطاق"
 
 #: r2/models/modaction.py:69
 msgid "toggle show sidebar from cname"
@@ -4751,7 +4751,7 @@ msgstr "رابط مع صورة مصغرة"
 
 #: r2/templates/tablelisting.html:50
 msgid "first"
-msgstr ""
+msgstr "الأول"
 
 #: r2/templates/thanks.html:34
 msgid "thanks for subscribing!"
