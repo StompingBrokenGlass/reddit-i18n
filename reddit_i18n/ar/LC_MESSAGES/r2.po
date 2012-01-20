@@ -1149,181 +1149,181 @@ msgstr[5] "يوم"
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:2
 msgid "Funny 500 page message 1"
-msgstr "رسالة مضحكة رقم ١ للصفحة 500"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:4
 msgid "Funny 500 page message 2"
-msgstr "رسالة مضحكة رقم ٢ للصفحة 500"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:6
 msgid "Funny 500 page message 3"
-msgstr "رسالة مضحكة رقم ٣ للصفحة 500"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:8
 msgid "Funny 500 page message 4"
-msgstr "رسالة مضحكة رقم 4 للصفحة 500"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:10
 msgid "Funny 500 page message 5"
-msgstr "رسالة مضحكة رقم 5 للصفحة 500"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:12
 msgid "Funny 500 page message 6"
-msgstr "رسالة مضحكة رقم 6 للصفحة 500"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:14
 msgid "Funny 500 page message 7"
-msgstr "رسالة مضحكة رقم 7 للصفحة 500"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:16
 msgid "Funny 500 page message 8"
-msgstr "رسالة مضحكة رقم 8 للصفحة 500"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:18
 msgid "Funny 500 page message 9"
-msgstr "رسالة مضحكة رقم 9 للصفحة 500"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:20
 msgid "Funny 500 page message 10"
-msgstr "رسالة مضحكة رقم 10 للصفحة 500"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:22
 msgid "Reason to create a reddit 1"
-msgstr "سبب لإنشاء ريدّيت رقم ١"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:24
 msgid "Reason to create a reddit 2"
-msgstr "سبب لإنشاء ريدّيت رقم 2"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:26
 msgid "Reason to create a reddit 3"
-msgstr "سبب لإنشاء ريدّيت رقم 3"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:28
 msgid "Reason to create a reddit 4"
-msgstr "سبب لإنشاء ريدّيت رقم 4"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:30
 msgid "Reason to create a reddit 5"
-msgstr "سبب لإنشاء ريدّيت رقم 5"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:32
 msgid "Reason to create a reddit 6"
-msgstr "سبب لإنشاء ريدّيت رقم 6"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:34
 msgid "Reason to create a reddit 7"
-msgstr "سبب لإنشاء ريدّيت رقم 7"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:36
 msgid "Reason to create a reddit 8"
-msgstr "سبب لإنشاء ريدّيت رقم 8"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:38
 msgid "Reason to create a reddit 9"
-msgstr "سبب لإنشاء ريدّيت رقم 9"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:40
 msgid "Reason to create a reddit 10"
-msgstr "سبب لإنشاء ريدّيت رقم 10"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:42
 msgid "Reason to create a reddit 11"
-msgstr "سبب لإنشاء ريدّيت رقم 11"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:44
 msgid "Reason to create a reddit 12"
-msgstr "سبب لإنشاء ريدّيت رقم 12"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:46
 msgid "Reason to create a reddit 13"
-msgstr "سبب لإنشاء ريدّيت رقم 13"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:48
 msgid "Reason to create a reddit 14"
-msgstr "سبب لإنشاء ريدّيت رقم 14"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:50
 msgid "Reason to create a reddit 15"
-msgstr "سبب لإنشاء ريدّيت رقم 15"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:52
 msgid "Reason to create a reddit 16"
-msgstr "سبب لإنشاء ريدّيت رقم 16"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:54
 msgid "Reason to create a reddit 17"
-msgstr "سبب لإنشاء ريدّيت رقم 17"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:56
 msgid "Reason to create a reddit 18"
-msgstr "سبب لإنشاء ريدّيت رقم 18"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:58
 msgid "Reason to create a reddit 19"
-msgstr "سبب لإنشاء ريدّيت رقم 19"
+msgstr ""
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas)
 #: r2/lib/rand_strings.py:60
 msgid "Reason to create a reddit 20"
-msgstr "سبب لإنشاء ريدّيت رقم 20"
+msgstr ""
 
 #: r2/lib/strings.py:48 r2/lib/template_helpers.py:138
 msgid "submitting..."
