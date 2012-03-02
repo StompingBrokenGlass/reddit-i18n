@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the r2 project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: r2 0.0.0\n"
@@ -324,7 +323,7 @@ msgstr "такое название невозможно"
 #: r2/controllers/errors.py:62
 #, python-format
 msgid "you are doing that too much. try again in %(time)s."
-msgstr "Хватит, еще раз в %(time) минут."
+msgstr "Хватит, еще раз в %(time)s минут."
 
 #: r2/controllers/errors.py:63
 msgid "your session has expired"
@@ -3385,7 +3384,7 @@ msgid "send a message"
 msgstr "отправить сообщение"
 
 #: r2/templates/messagecompose.html:52
-msgid "(username, or # followed by the reddit name)"
+msgid "(username, or /r/ followed by the reddit name)"
 msgstr ""
 
 #: r2/templates/messagecompose.html:52

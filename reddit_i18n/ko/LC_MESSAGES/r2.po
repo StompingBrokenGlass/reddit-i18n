@@ -3,7 +3,6 @@
 # This file is distributed under the same license as the r2 project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: r2 0.0.0\n"
@@ -3345,7 +3344,7 @@ msgid "send a message"
 msgstr "메세지 보내기"
 
 #: r2/templates/messagecompose.html:52
-msgid "(username, or # followed by the reddit name)"
+msgid "(username, or /r/ followed by the reddit name)"
 msgstr ""
 
 #: r2/templates/messagecompose.html:52
